@@ -1,0 +1,80 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 160.75623132171617,
+                    "y": 219.51705287467632,
+                    "width": 106.53384720577328,
+                    "height": 109.40022874494208
+                }
+            },
+            {
+                "class": "decoration",
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 241.2537795467063,
+                    "y": 181.05976722416176,
+                    "width": 37.26296000919423,
+                    "height": 96.50151181868253
+                }
+            },
+            {
+                "class": "decoration",
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 232.4157698009359,
+                    "y": 273.73943699061925,
+                    "width": 36.785229752666105,
+                    "height": 96.50151181868253
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "mixed0037.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 229.78825339003114,
+                    "y": 222.14456928558104,
+                    "width": 71.6595384792197,
+                    "height": 73.57045950533225
+                }
+            },
+            {
+                "class": "decoration",
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 278.5167395559006,
+                    "y": 187.7479908155556,
+                    "width": 21.97559180029403,
+                    "height": 65.92677540088211
+                }
+            },
+            {
+                "class": "decoration",
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 281.8608513515975,
+                    "y": 250.09178929247673,
+                    "width": 21.97559180029403,
+                    "height": 63.53812411824146
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "mixed0038.JPG"
+    }
+]

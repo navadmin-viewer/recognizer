@@ -1,0 +1,600 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 191.7366520588236,
+                    "y": 213.64941229411772,
+                    "width": 206.26576482352948,
+                    "height": 213.8875944705883
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "small_craft_insignia_large0001.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 169.34752747058832,
+                    "y": 222.22397064705893,
+                    "width": 193.8802916470589,
+                    "height": 200.5493925882354
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "small_craft_insignia_large0002.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 214.8403231764707,
+                    "y": 219.36578452941185,
+                    "width": 160.05842258823535,
+                    "height": 159.5820582352942
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "small_craft_insignia_large0003.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 244.13673088235305,
+                    "y": 243.42218435294126,
+                    "width": 80.50557564705888,
+                    "height": 80.02921129411767
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "small_craft_insignia_large0004.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 221.51745098039225,
+                    "y": 158.2609803921569,
+                    "width": 104.22941176470593,
+                    "height": 97.52039215686278
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "small_craft_insignia_large0005.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 152.63019607843145,
+                    "y": 277.8252941176472,
+                    "width": 101.59372549019615,
+                    "height": 94.64509803921574
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "small_craft_insignia_large0006.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 181.86235294117654,
+                    "y": 256.8596078431374,
+                    "width": 133.22196078431378,
+                    "height": 101.1145098039216
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "small_craft_insignia_large0007.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 223.48582941176483,
+                    "y": 184.46449411764715,
+                    "width": 127.36834117647065,
+                    "height": 141.22007058823536
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "small_craft_insignia_large0008.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 249.72831803129398,
+                    "y": 219.3888318292113,
+                    "width": 55.52698418117024,
+                    "height": 56.38564888500278
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "small_craft_insignia_large0009.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 222.75193525255534,
+                    "y": 206.36575048775126,
+                    "width": 58.24608907663994,
+                    "height": 80.71448216025777
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "small_craft_insignia_large0010.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 218.67327790935084,
+                    "y": 196.63421717764925,
+                    "width": 48.657666550509994,
+                    "height": 76.13493707315092
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "small_craft_insignia_large0011.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 243.0736665765919,
+                    "y": 210.15818626301157,
+                    "width": 83.7198086236716,
+                    "height": 39.355465592324286
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "small_craft_insignia_large0012.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 219.24003618401213,
+                    "y": 214.6265679020064,
+                    "width": 180.9281908856166,
+                    "height": 179.72467742074556
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144402.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 221.04530638131877,
+                    "y": 224.05409004349642,
+                    "width": 189.35278513971406,
+                    "height": 188.95161398475705
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144408.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 203.59436114068833,
+                    "y": 206.40255922538748,
+                    "width": 152.84621003862514,
+                    "height": 140.8110753899145
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144412.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 263.16827765180597,
+                    "y": 189.55337071719256,
+                    "width": 150.03801195392597,
+                    "height": 120.75251764206344
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144414.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 192.76273995684875,
+                    "y": 223.4523333110609,
+                    "width": 104.70567144378258,
+                    "height": 102.69981566899745
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144423.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 193.76566784424128,
+                    "y": 212.4201265497428,
+                    "width": 73.81549251209192,
+                    "height": 71.0072944273928
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144424.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 246.51967472108961,
+                    "y": 220.84472080384023,
+                    "width": 67.7979251877366,
+                    "height": 83.84477138601746
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144426.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 247.17593545411785,
+                    "y": 174.2993349194119,
+                    "width": 76.57080609176478,
+                    "height": 55.74892022470592
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144428.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 190.75534149176485,
+                    "y": 194.78538391764724,
+                    "width": 114.18453540000009,
+                    "height": 114.18453540000012
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144436.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 169.93345562470603,
+                    "y": 251.87765161764725,
+                    "width": 67.16737376470593,
+                    "height": 69.85406871529415
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144437.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 171.6126399688237,
+                    "y": 252.88516222411786,
+                    "width": 67.83904750235301,
+                    "height": 67.83904750235295
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144438.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 215.60726978470603,
+                    "y": 222.9956808988237,
+                    "width": 65.8240262894118,
+                    "height": 69.85406871529419
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144440.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 222.6598440300002,
+                    "y": 213.25641170294136,
+                    "width": 59.77896265058832,
+                    "height": 73.21243740352946
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144442.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 228.3690708000002,
+                    "y": 229.04074453764724,
+                    "width": 71.19741619058831,
+                    "height": 80.60084851764712
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144444.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 202.84546876941192,
+                    "y": 260.2735733382355,
+                    "width": 63.13733133882358,
+                    "height": 61.12231012588241
+                }
+            },
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 45.00214042235298,
+                    "y": 249.86263040470607,
+                    "width": 38.957076783529445,
+                    "height": 37.61372930823531
+                }
+            },
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 330.12764205352966,
+                    "y": 272.69953748470607,
+                    "width": 30.22531819411769,
+                    "height": 29.55364445647059
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144455.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 359.00961277235325,
+                    "y": 270.3486794029414,
+                    "width": 32.9120131447059,
+                    "height": 30.22531819411769
+                }
+            },
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 223.33151776764726,
+                    "y": 263.6319420264708,
+                    "width": 57.092267700000065,
+                    "height": 55.74892022470594
+                }
+            },
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 85.9742384188236,
+                    "y": 261.2810839447061,
+                    "width": 30.896991931764735,
+                    "height": 29.55364445647063
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144503.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 229.7124182752943,
+                    "y": 162.54504451058835,
+                    "width": 55.07724648705887,
+                    "height": 51.047204061176515
+                }
+            },
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 93.36264953294125,
+                    "y": 131.31221571000012,
+                    "width": 32.24033940705886,
+                    "height": 30.22531819411767
+                }
+            },
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 342.8894430688238,
+                    "y": 183.3669303776472,
+                    "width": 27.538623243529475,
+                    "height": 28.2102969811765
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144508.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 48.6963459794118,
+                    "y": 232.39911322588253,
+                    "width": 32.9120131447059,
+                    "height": 30.896991931764713
+                }
+            },
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:silver",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 198.14375260588253,
+                    "y": 234.74997130764726,
+                    "width": 64.4806788141177,
+                    "height": 59.77896265058828
+                }
+            },
+            {
+                "class": "decoration",
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 339.86691124941206,
+                    "y": 244.4892405035296,
+                    "width": 33.58368688235301,
+                    "height": 32.24033940705884
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_144516.jpg"
+    }
+]

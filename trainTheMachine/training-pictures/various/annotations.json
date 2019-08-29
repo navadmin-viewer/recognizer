@@ -1,0 +1,68 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "height": 109.40022874494208,
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "width": 106.53384720577328,
+                "x": 107.48930771882954,
+                "y": 164.8169385022053
+            },
+            {
+                "class": "decoration",
+                "height": 96.50151181868253,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 37.26296000919423,
+                "x": 222.6222995421092,
+                "y": 132.8090113148205
+            },
+            {
+                "class": "decoration",
+                "height": 96.50151181868253,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 36.785229752666105,
+                "x": 214.02315492460284,
+                "y": 225.488681081278
+            }
+        ],
+        "class": "image",
+        "filename": "mixed0037.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "decoration",
+                "height": 73.57045950533225,
+                "label": "insignia:small_craft_insignia:gold",
+                "type": "rectangle",
+                "width": 71.6595384792197,
+                "x": 193.9584841504213,
+                "y": 185.35933953291493
+            },
+            {
+                "class": "decoration",
+                "height": 65.92677540088211,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 21.97559180029403,
+                "x": 267.52894365575355,
+                "y": 154.78460311511455
+            },
+            {
+                "class": "decoration",
+                "height": 63.53812411824146,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 21.97559180029403,
+                "x": 270.87305545145045,
+                "y": 218.322727233356
+            }
+        ],
+        "class": "image",
+        "filename": "mixed0038.JPG"
+    }
+]

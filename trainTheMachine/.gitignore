@@ -1,0 +1,4 @@
+**/.DS_Store
+
+# Uncomment to not include training images.
+#training-pictures/*/

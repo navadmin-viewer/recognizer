@@ -1,0 +1,33 @@
+//https://blog.ichibod.com/posts/2017/12/27/coreml-machine-learning-part-1/
+
+[
+  {
+   "label": "objectLabel", // Your custom name
+   "type": "rectangle",
+   "coordinates": {
+                   "height": 67,
+                   "width":164,
+                   "x":357, //center X
+                   "y":422//center Y
+                  }
+  } //, {…} for multiple
+]
+
+//Format for annotations in single file
+//https://apple.github.io/turicreate/docs/userguide/object_detection/
+
+//The ground truth annotations for the image above should be encoded as a list of dictionaries, 
+//each dictionary representing a single bounding box:
+
+[{"coordinates": {"height": 104, "width": 110, "x": 115, "y": 216},
+  "label": "ball"},
+ {"coordinates": {"height": 106, "width": 110, "x": 188, "y": 254},
+  "label": "ball"},
+ {"coordinates": {"height": 164, "width": 131, "x": 374, "y": 169},
+  "label": "cup"}]
+
+//optional 'type': 'rectangle' 
+//You may optionally include 'type': 'rectangle' to explicitly denote these as bounding boxes. 
+//If type is defined as something else, the object detector will ignore that dictionary. 
+//A bounding box is defined by four values (x, y, width, height) where (0, 0) is the top left corner. 
+//The center of the box is located at (x, y):

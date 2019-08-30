@@ -2,9 +2,9 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "insignia",
                 "height": 109.40022874494208,
-                "label": "medal:small_craft_officer_in_charge:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 106.53384720577328,
                 "x": 107.48930771882954,
@@ -35,9 +35,9 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "insignia",
                 "height": 73.57045950533225,
-                "label": "medal:small_craft_officer_in_charge:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 71.6595384792197,
                 "x": 193.9584841504213,
@@ -428,9 +428,9 @@
                 "y": 65.61555410477058
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 143.06650611882415,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 281.4312960741189,
                 "x": 99.40771317176517,
@@ -476,9 +476,9 @@
                 "y": 213.5193411764713
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 131.64805257882412,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 118.2145778258829,
                 "x": 70.52574245294149,
@@ -509,9 +509,9 @@
                 "y": 211.83010588235365
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 84.63089094352979,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 171.2768031000008,
                 "x": 158.5150020847066,
@@ -542,9 +542,9 @@
                 "y": 209.80302352941249
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 130.97637884117705,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 118.2145778258829,
                 "x": 72.54076366588268,
@@ -575,9 +575,9 @@
                 "y": 207.77594117647126
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 169.93345562470665,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 155.82830713411835,
                 "x": 224.33902837411864,
@@ -608,9 +608,9 @@
                 "y": 245.95265882353024
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 61.12231012588262,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 122.24462025176527,
                 "x": 236.4291556517658,
@@ -619,5 +619,278 @@
         ],
         "class": "image",
         "filename": "20190808_165545.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 108.6050550699648,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 124.30187943554562,
+                "x": 95.02942318621918,
+                "y": 0.5656513284893999
+            },
+            {
+                "class": "ribbon",
+                "height": 57.13078417742941,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 84.84769927340999,
+                "x": 139.15022680839235,
+                "y": 148.76629939271217
+            },
+            {
+                "class": "ribbon",
+                "height": 77.49423200304781,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 30.120933242060552,
+                "x": 270.66416068217785,
+                "y": 179.31147113113977
+            },
+            {
+                "class": "ribbon",
+                "height": 38.46429033727919,
+                "label": "ribbon:national_defense_service",
+                "type": "rectangle",
+                "width": 75.93869084970194,
+                "x": 85.69617626614408,
+                "y": 293.57303948599855
+            },
+            {
+                "class": "ribbon",
+                "height": 80.88813997398417,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 19.090732336517217,
+                "x": 311.8152948297817,
+                "y": 229.08878803820696
+            },
+            {
+                "class": "ribbon",
+                "height": 79.75683731700539,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 19.51497083288429,
+                "x": 314.78496430435104,
+                "y": 152.1602073636486
+            },
+            {
+                "class": "ribbon",
+                "height": 73.2124374035295,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 21.66147803911767,
+                "x": 284.1179910247061,
+                "y": 293.52142335176495
+            }
+        ],
+        "class": "image",
+        "filename": "20190830_000210.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 89.3326071070589,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 43.82671138147064,
+                "x": 319.38086225117667,
+                "y": 257.25104151882374
+            },
+            {
+                "class": "ribbon",
+                "height": 94.70599700823537,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 35.262871226470644,
+                "x": 313.3357986123532,
+                "y": 85.9742384188236
+            },
+            {
+                "class": "ribbon",
+                "height": 94.70599700823536,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 37.27789243941183,
+                "x": 330.46347892235315,
+                "y": 171.9484768376472
+            },
+            {
+                "class": "ribbon",
+                "height": 79.257501042353,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 49.36801971705885,
+                "x": 276.5616614761767,
+                "y": 143.06650611882364
+            },
+            {
+                "class": "ribbon",
+                "height": 85.30256468117655,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 75.56329548529416,
+                "x": 148.10405915117659,
+                "y": 145.08152733176482
+            },
+            {
+                "class": "ribbon",
+                "height": 143.06650611882364,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 103.26983716323537,
+                "x": 89.16468867264713,
+                "y": 10.74677980235295
+            },
+            {
+                "class": "ribbon",
+                "height": 59.107288912941215,
+                "label": "ribbon:national_defense_service",
+                "type": "rectangle",
+                "width": 70.02198714970592,
+                "x": 125.43507050558831,
+                "y": 315.6866566941179
+            }
+        ],
+        "class": "image",
+        "filename": "20190830_000217.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 81.94419599294125,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 42.31544547176475,
+                "x": 323.410904677059,
+                "y": 240.45919807764724
+            },
+            {
+                "class": "ribbon",
+                "height": 69.18239497764709,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 30.729073497352964,
+                "x": 262.4565129855884,
+                "y": 343.2252799376473
+            },
+            {
+                "class": "ribbon",
+                "height": 76.57080609176474,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 38.285403045882425,
+                "x": 298.7268948185296,
+                "y": 311.65661426823556
+            },
+            {
+                "class": "ribbon",
+                "height": 56.42059396235296,
+                "label": "ribbon:national_defense_service",
+                "type": "rectangle",
+                "width": 58.939370478529455,
+                "x": 114.85620913764714,
+                "y": 238.4441768647061
+            },
+            {
+                "class": "ribbon",
+                "height": 76.06787624607959,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 23.35641166616202,
+                "x": 289.8492398571253,
+                "y": 239.4351272443713
+            },
+            {
+                "class": "ribbon",
+                "height": 52.073311255705484,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 75.81261491639472,
+                "x": 180.34212942233296,
+                "y": 158.2620244045951
+            },
+            {
+                "class": "ribbon",
+                "height": 80.15205752103687,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 118.31362630891907,
+                "x": 171.53561354820627,
+                "y": 16.847247759198833
+            }
+        ],
+        "class": "image",
+        "filename": "20190830_000224.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 151.12659097058838,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 39.79666895558826,
+                "x": 305.77946906382374,
+                "y": 53.062225274117694
+            },
+            {
+                "class": "ribbon",
+                "height": 143.06650611882364,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 37.27789243941183,
+                "x": 300.7419160314708,
+                "y": 201.5021212941178
+            },
+            {
+                "class": "ribbon",
+                "height": 268.76187827376816,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 211.51439299123908,
+                "x": 95.81421220970657,
+                "y": 98.82723775089232
+            }
+        ],
+        "class": "image",
+        "filename": "20190830_000242.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 173.9634980505884,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 66.4957000270589,
+                "x": 300.23816072823547,
+                "y": 58.43561517529416
+            },
+            {
+                "class": "ribbon",
+                "height": 150.45491723294128,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 60.45063638823534,
+                "x": 272.5316190502943,
+                "y": 222.32400716117664
+            },
+            {
+                "class": "ribbon",
+                "height": 243.45246372780792,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 225.97691558893064,
+                "x": 83.15950493672646,
+                "y": 91.59597645204656
+            }
+        ],
+        "class": "image",
+        "filename": "20190830_000250.jpg"
     }
 ]

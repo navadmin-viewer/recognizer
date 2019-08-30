@@ -2,45 +2,45 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 197.87234042553212,
-                "label": "medal:armed_forces_reserve",
+                "label": "ribbon:armed_forces_reserve",
                 "type": "rectangle",
                 "width": 82.97872340425539,
                 "x": 73.04964539007099,
                 "y": 102.12765957446818
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 192.90780141843987,
-                "label": "medal:armed_forces_service",
+                "label": "ribbon:armed_forces_service",
                 "type": "rectangle",
                 "width": 82.26950354609936,
                 "x": 118.43971631205686,
                 "y": 112.0567375886526
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 187.23404255319167,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 77.30496453900716,
                 "x": 164.53900709219874,
                 "y": 123.40425531914906
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 193.61702127659595,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 116.31205673758876,
                 "x": 204.9645390070924,
                 "y": 126.9503546099292
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 180.14184397163137,
-                "label": "medal:navy_and_marine_corps_commendation",
+                "label": "ribbon:navy_and_marine_corps_commendation",
                 "type": "rectangle",
                 "width": 140.42553191489375,
                 "x": 253.19148936170237,
@@ -53,45 +53,45 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 96.45390070921994,
-                "label": "medal:armed_forces_reserve",
+                "label": "ribbon:armed_forces_reserve",
                 "type": "rectangle",
                 "width": 187.23404255319164,
                 "x": 177.30496453900727,
                 "y": 82.26950354609937
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 108.51063829787245,
-                "label": "medal:armed_forces_service",
+                "label": "ribbon:armed_forces_service",
                 "type": "rectangle",
                 "width": 190.78014184397182,
                 "x": 160.9929078014186,
                 "y": 126.9503546099292
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 104.25531914893628,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 181.56028368794344,
                 "x": 143.9716312056739,
                 "y": 171.63120567375904
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 126.24113475177316,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 185.81560283687958,
                 "x": 122.69503546099303,
                 "y": 210.63829787234064
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 140.42553191489375,
-                "label": "medal:navy_and_marine_corps_commendation",
+                "label": "ribbon:navy_and_marine_corps_commendation",
                 "type": "rectangle",
                 "width": 160.28368794326258,
                 "x": 92.9078014184398,
@@ -104,45 +104,45 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 72.34042553191497,
-                "label": "medal:armed_forces_reserve",
+                "label": "ribbon:armed_forces_reserve",
                 "type": "rectangle",
                 "width": 63.82978723404261,
                 "x": 263.12056737588676,
                 "y": 153.9007092198583
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 74.46808510638303,
-                "label": "medal:armed_forces_service",
+                "label": "ribbon:armed_forces_service",
                 "type": "rectangle",
                 "width": 69.50354609929087,
                 "x": 225.53191489361723,
                 "y": 175.1773049645392
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 66.66666666666671,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 76.59574468085117,
                 "x": 187.9432624113477,
                 "y": 200.0000000000002
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 56.0283687943263,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 83.68794326241144,
                 "x": 151.77304964539022,
                 "y": 225.53191489361723
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 53.90070921985824,
-                "label": "medal:navy_and_marine_corps_commendation",
+                "label": "ribbon:navy_and_marine_corps_commendation",
                 "type": "rectangle",
                 "width": 106.38297872340435,
                 "x": 90.78014184397172,
@@ -155,45 +155,45 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 142.55319148936184,
-                "label": "medal:navy_and_marine_corps_commendation",
+                "label": "ribbon:navy_and_marine_corps_commendation",
                 "type": "rectangle",
                 "width": 182.26950354609946,
                 "x": 129.7872340425533,
                 "y": 65.9574468085107
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 122.69503546099304,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 175.8865248226952,
                 "x": 109.21985815602848,
                 "y": 121.985815602837
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 103.54609929078023,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 162.41134751773063,
                 "x": 107.80141843971643,
                 "y": 178.0141843971633
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 102.1276595744682,
-                "label": "medal:armed_forces_service",
+                "label": "ribbon:armed_forces_service",
                 "type": "rectangle",
                 "width": 165.24822695035476,
                 "x": 94.32624113475185,
                 "y": 211.34751773049666
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 90.07092198581569,
-                "label": "medal:armed_forces_reserve",
+                "label": "ribbon:armed_forces_reserve",
                 "type": "rectangle",
                 "width": 160.28368794326258,
                 "x": 87.23404255319156,
@@ -206,18 +206,18 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 114.33377916275113,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 56.16396169398303,
                 "x": 296.8666546681959,
                 "y": 0.0
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 117.5431484024073,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 61.3791867084243,
                 "x": 166.0848581522069,
@@ -230,18 +230,18 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 114.84984573648785,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 215.3434607559147,
                 "x": 137.18176018524937,
                 "y": 1.5951367463401
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 113.25470899014772,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 240.0680803241864,
                 "x": 147.55014903646008,
@@ -254,18 +254,18 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 163.5015164998612,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 210.5580505168944,
                 "x": 137.97932855841944,
                 "y": 70.18601683896479
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 148.34771740963018,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 141.16960205109964,
                 "x": 86.13738430236589,
@@ -278,18 +278,18 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 82.94711080968568,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 122.82552946818835,
                 "x": 275.9586571168389,
                 "y": 106.8741620047873
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 22.331914448761477,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 122.82552946818835,
                 "x": 291.91002458023996,
@@ -302,18 +302,18 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 140.37203367792958,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 156.32340114133066,
                 "x": 204.17750353153397,
                 "y": 132.39634994622907
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 110.06443549746751,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 125.21823458769856,
                 "x": 180.25045233643232,
@@ -326,36 +326,36 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 72.57872195847496,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 131.598781573059,
                 "x": 200.1896616656837,
                 "y": 103.68388851210707
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 45.4613972706931,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 94.1130680340664,
                 "x": 211.35561889006448,
                 "y": 29.510029807292018
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 63.805469853604386,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 133.99148669256917,
                 "x": 164.29908487303123,
                 "y": 212.15318726323449
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 43.06869215118297,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 98.89847827308678,
                 "x": 207.36777702421415,
@@ -368,18 +368,18 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 66.19817497311452,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 143.5623071706098,
                 "x": 195.40425142666336,
                 "y": 39.878418658502724
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 67.79331171945465,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 133.1939183193991,
                 "x": 205.77264027787405,
@@ -392,9 +392,9 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 63.805469853604365,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 131.598781573059,
                 "x": 186.63099932179276,
@@ -407,9 +407,9 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 100.49361501942688,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 193.01154630715317,
                 "x": 104.48145688527715,
@@ -422,9 +422,9 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 165.09665324620127,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 313.4443706558315,
                 "x": 55.03221774873376,
@@ -437,9 +437,9 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 139.57446530475957,
-                "label": "medal:national_defense_service",
+                "label": "ribbon:national_defense_service",
                 "type": "rectangle",
                 "width": 298.2905715656004,
                 "x": 90.12522616821616,
@@ -452,18 +452,18 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 102.08875176576701,
-                "label": "medal:navy_and_marine_corps_achievement",
+                "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
                 "width": 238.47294357784628,
                 "x": 131.598781573059,
                 "y": 279.1489306095191
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 118.04011922916806,
-                "label": "medal:navy_good_conduct",
+                "label": "ribbon:navy_good_conduct",
                 "type": "rectangle",
                 "width": 254.42431104124736,
                 "x": 108.46929875112741,
@@ -476,27 +476,27 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 68.5908800926247,
-                "label": "medal:navy_and_marine_corps_commendation",
+                "label": "ribbon:navy_and_marine_corps_commendation",
                 "type": "rectangle",
                 "width": 141.16960205109964,
                 "x": 234.485101711996,
                 "y": 77.36413219749528
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 89.32765779504611,
-                "label": "medal:navy_and_marine_corps_commendation",
+                "label": "ribbon:navy_and_marine_corps_commendation",
                 "type": "rectangle",
                 "width": 205.77264027787402,
                 "x": 198.5945249193436,
                 "y": 226.50941798029547
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 24.724619568271724,
-                "label": "medal:meritorious_service",
+                "label": "ribbon:meritorious_service",
                 "type": "rectangle",
                 "width": 189.02370444130293,
                 "x": 224.91428123395536,
@@ -509,18 +509,18 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 91.72036291455628,
-                "label": "medal:meritorious_service",
+                "label": "ribbon:meritorious_service",
                 "type": "rectangle",
                 "width": 189.02370444130293,
                 "x": 206.57020865104414,
                 "y": 212.15318726323449
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 94.11306803406644,
-                "label": "medal:navy_and_marine_corps_commendation",
+                "label": "ribbon:navy_and_marine_corps_commendation",
                 "type": "rectangle",
                 "width": 193.01154630715317,
                 "x": 184.23829420228262,
@@ -542,18 +542,18 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 51.84194425605354,
-                "label": "medal:global_war_on_terrorism_expeditionary_service",
+                "label": "ribbon:global_war_on_terrorism_expeditionary_service",
                 "type": "rectangle",
                 "width": 112.45714061697768,
                 "x": 187.42856769496282,
                 "y": 92.51793128772633
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 78.16170057066533,
-                "label": "medal:rifle_marksmanship",
+                "label": "ribbon:rifle_marksmanship",
                 "type": "rectangle",
                 "width": 153.13312764865046,
                 "x": 173.07233697790184,
@@ -566,18 +566,18 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 80.5544056901755,
-                "label": "medal:rifle_marksmanship",
+                "label": "ribbon:rifle_marksmanship",
                 "type": "rectangle",
                 "width": 148.34771740963015,
                 "x": 169.08449511205157,
                 "y": 99.6960466462568
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 87.73252104870605,
-                "label": "medal:humanitarian_service",
+                "label": "ribbon:humanitarian_service",
                 "type": "rectangle",
                 "width": 151.53799090231036,
                 "x": 151.53799090231036,
@@ -590,27 +590,27 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 41.473555404842834,
-                "label": "medal:humanitarian_service",
+                "label": "ribbon:humanitarian_service",
                 "type": "rectangle",
                 "width": 80.5544056901755,
                 "x": 50.24680750971344,
                 "y": 376.4522721362658
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 110.06443549746756,
-                "label": "medal:rifle_marksmanship",
+                "label": "ribbon:rifle_marksmanship",
                 "type": "rectangle",
                 "width": 148.34771740963015,
                 "x": 137.18176018524937,
                 "y": 230.49725984614574
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 87.732521048706,
-                "label": "medal:global_war_on_terrorism_expeditionary_service",
+                "label": "ribbon:global_war_on_terrorism_expeditionary_service",
                 "type": "rectangle",
                 "width": 96.50577315357657,
                 "x": 240.0680803241864,
@@ -623,18 +623,18 @@
     {
         "annotations": [
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 137.9793285584194,
-                "label": "medal:global_war_on_terrorism_expeditionary_service",
+                "label": "ribbon:global_war_on_terrorism_expeditionary_service",
                 "type": "rectangle",
                 "width": 138.7768969315895,
                 "x": 263.197563146118,
                 "y": 145.15744391694994
             },
             {
-                "class": "medal",
+                "class": "ribbon",
                 "height": 116.44498248282795,
-                "label": "medal:global_war_on_terrorism_service",
+                "label": "ribbon:global_war_on_terrorism_service",
                 "type": "rectangle",
                 "width": 140.3720336779296,
                 "x": 153.93069602182052,

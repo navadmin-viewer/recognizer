@@ -1,0 +1,2053 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 27.19990489381142,
+                "label": "ribbon:aerial_achievement",
+                "type": "rectangle",
+                "width": 100.18631635887208,
+                "x": -0.30222116548679356,
+                "y": -0.30222116548679356
+            }
+        ],
+        "class": "image",
+        "filename": "1.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "2.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "3.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "4.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "5.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "6.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "7.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "8.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "9.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "10.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "11.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "12.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "13.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "14.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "15.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "16.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "17.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "19.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "20.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "21.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "22.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "23.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "24.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "25.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "27.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "28.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "29.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "30.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "31.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "32.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "33.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "34.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "35.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "37.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "38.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "39.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "40.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "41.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "42.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "43.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "44.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "45.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "46.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "47.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "49.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "50.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "51.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "52.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "53.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "55.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "57.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "58.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "59.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "60.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "61.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "62.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "63.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "64.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "65.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "66.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "67.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "68.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "69.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "70.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "71.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "72.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "73.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "74.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "75.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "76.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "78.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "79.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "80.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "81.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "82.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "83.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "84.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "85.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "86.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "87.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "88.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "90.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "91.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "92.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "93.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "94.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "95.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "97.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "98.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "99.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "100.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "101.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "102.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "103.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "104.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "105.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "106.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "107.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "108.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "109.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "111.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "112.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "113.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "114.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "115.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "116.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "117.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "118.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "119.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "120.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "121.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "122.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "123.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "124.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "125.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "126.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "127.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "128.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "129.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "130.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "131.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "132.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "133.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "134.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "135.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "136.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "137.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "138.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "139.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "140.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "141.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "142.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "143.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "144.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "145.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "147.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "148.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "149.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "150.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "151.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "200.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "201.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "afg.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "agcm.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "amcamp.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "amdef.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "ardsm.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "arpuc.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "asiapac.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "back111.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 128.0070920021111,
+                "label": "insignia:basic_special_warfare_combatant-craft:silver",
+                "type": "rectangle",
+                "width": 246.75051287249045,
+                "x": 26.948861474128652,
+                "y": 42.10759605332602
+            }
+        ],
+        "class": "image",
+        "filename": "Basic SWCC.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "battle.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 49.6869633429247,
+                "label": "insignia:naval_astronaut_insignia:gold",
+                "type": "rectangle",
+                "width": 152.42949771304018,
+                "x": 5.052911526399122,
+                "y": 4.210759605332602
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_a.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 54.73987486932383,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 60.634938316789466,
+                "x": 37.0546845269269,
+                "y": 8.421519210665204
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_aa.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 39.581140290126456,
+                "label": "insignia:naval_astonaut_nfo_insignia:gold",
+                "type": "rectangle",
+                "width": 170.95683997650363,
+                "x": 3.3686076842660815,
+                "y": 13.474430737064326
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_b.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 38.73898836905993,
+                "label": "insignia:craftmaster:gold",
+                "type": "rectangle",
+                "width": 41.265444132259496,
+                "x": 34.528228763727334,
+                "y": 10.947974973864765
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_bb.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 48.00265950079166,
+                "label": "insignia:naval_aviator_insignia:gold",
+                "type": "rectangle",
+                "width": 154.95595347623976,
+                "x": 1.6843038421330407,
+                "y": 4.210759605332602
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_c.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "bInsig_cc.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 41.265444132259496,
+                "label": "insignia:naval_aircrew_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 152.42949771304018,
+                "x": 7.579367289598683,
+                "y": 10.105823052798245
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_d.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 67.37215368532163,
+                "label": "insignia:special_warfare_insignia:gold",
+                "type": "rectangle",
+                "width": 127.16494008104459,
+                "x": 7.579367289598683,
+                "y": 3.3686076842660815
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_dd.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 36.212532605860375,
+                "label": "insignia:naval_aviation_supply_corps:gold",
+                "type": "rectangle",
+                "width": 149.0608900287741,
+                "x": 5.895063447465643,
+                "y": 9.263671131731725
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_e.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 36.212532605860375,
+                "label": "insignia:naval_flight_surgeon_insignia:gold",
+                "type": "rectangle",
+                "width": 160.00886500263886,
+                "x": 5.052911526399122,
+                "y": 12.632278815997806
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_f.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 64.00354600105555,
+                "label": "insignia:seabee_combat_warfare_officer:gold",
+                "type": "rectangle",
+                "width": 160.8510169237054,
+                "x": 6.737215368532163,
+                "y": 4.210759605332602
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_ff.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 38.73898836905994,
+                "label": "insignia:naval_flight_nurse:gold",
+                "type": "rectangle",
+                "width": 181.0626630293019,
+                "x": 1.6843038421330407,
+                "y": 5.052911526399122
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_g.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 52.21341910612426,
+                "label": "insignia:basic_parachutist:silver",
+                "type": "rectangle",
+                "width": 95.1631670805168,
+                "x": 42.94974797439254,
+                "y": 6.737215368532163
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_gg.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 43.79189989545906,
+                "label": "insignia:naval_flight_officer:gold",
+                "type": "rectangle",
+                "width": 165.06177652903799,
+                "x": 5.052911526399122,
+                "y": 10.105823052798245
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_h.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 48.84481142185818,
+                "label": "insignia:naval_parachutist:gold",
+                "type": "rectangle",
+                "width": 175.1675995818362,
+                "x": 3.3686076842660815,
+                "y": 5.895063447465643
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_hh.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 37.89683644799342,
+                "label": "insignia:aerospace_experimental_psychologist_and_aerospace_physiologist:gold",
+                "type": "rectangle",
+                "width": 162.53532076583843,
+                "x": 4.210759605332602,
+                "y": 16.84303842133041
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_i.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 66.53000176425512,
+                "label": "insignia:diving_officer:gold",
+                "type": "rectangle",
+                "width": 75.79367289598683,
+                "x": 48.84481142185818,
+                "y": 4.210759605332602
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_ii.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 46.318355658658625,
+                "label": "insignia:naval_aircrew_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 165.9039284501045,
+                "x": 3.3686076842660815,
+                "y": 8.421519210665204
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_j.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 65.68784984318859,
+                "label": "insignia:diving_medical:gold",
+                "type": "rectangle",
+                "width": 74.95152097492033,
+                "x": 48.00265950079166,
+                "y": 5.052911526399122
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_jj.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 41.265444132259496,
+                "label": "insignia:aviation_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 153.27164963410672,
+                "x": 8.421519210665204,
+                "y": 10.947974973864765
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_k.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 59.79278639572295,
+                "label": "insignia:master_diver:silver",
+                "type": "rectangle",
+                "width": 69.05645752745468,
+                "x": 44.63405181652558,
+                "y": 3.3686076842660815
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_kk.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 46.31835565865862,
+                "label": "insignia:submarine_officer:gold",
+                "type": "rectangle",
+                "width": 154.11380155517324,
+                "x": 7.579367289598683,
+                "y": 5.052911526399122
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_l.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 55.582026790390344,
+                "label": "insignia:diving_medical_technician:silver",
+                "type": "rectangle",
+                "width": 64.84569792212207,
+                "x": 39.581140290126456,
+                "y": 12.632278815997806
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_ll.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 41.265444132259496,
+                "label": "insignia:submarine_medical:gold",
+                "type": "rectangle",
+                "width": 170.95683997650363,
+                "x": 6.737215368532163,
+                "y": 9.263671131731725
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_m.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 55.582026790390344,
+                "label": "insignia:first_class_diver:silver",
+                "type": "rectangle",
+                "width": 56.42417871145686,
+                "x": 68.21430560638815,
+                "y": 4.210759605332602
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_mm.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 42.10759605332602,
+                "label": "insignia:submarine_engineer_duty:gold",
+                "type": "rectangle",
+                "width": 165.06177652903799,
+                "x": 5.895063447465643,
+                "y": 3.3686076842660815
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_n.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 48.00265950079166,
+                "label": "insignia:second_class_diver:silver",
+                "type": "rectangle",
+                "width": 38.73898836905994,
+                "x": 69.89860944852119,
+                "y": 7.579367289598683
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_nn.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 52.21341910612426,
+                "label": "insignia:submarine_supply:gold",
+                "type": "rectangle",
+                "width": 161.69316884477192,
+                "x": 5.052911526399122,
+                "y": 5.052911526399122
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_o.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 57.266330632523385,
+                "label": "insignia:scuba_diver:silver",
+                "type": "rectangle",
+                "width": 48.84481142185818,
+                "x": 74.1093690538538,
+                "y": 5.052911526399122
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_oo.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 34.528228763727334,
+                "label": "insignia:submarine_combat_patrol:silver",
+                "type": "rectangle",
+                "width": 138.95506697597585,
+                "x": 17.68519034239693,
+                "y": 14.316582658130846
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_p.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 51.37126718505774,
+                "label": "insignia:basic_explosive_ordnance_disposal_officer:silver",
+                "type": "rectangle",
+                "width": 90.9524074751842,
+                "x": 48.00265950079166,
+                "y": 7.579367289598683
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_pp.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 54.73987486932383,
+                "label": "insignia:submarine_combat_patrol:silver",
+                "type": "rectangle",
+                "width": 143.16582658130847,
+                "x": 21.05379802666301,
+                "y": 3.3686076842660815
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_q.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "bInsig_q2.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 48.84481142185818,
+                "label": "insignia:ssbn_deterrent_patrol_20:gold",
+                "type": "rectangle",
+                "width": 135.5864592917098,
+                "x": 20.21164610559649,
+                "y": 5.895063447465643
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_q9.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 56.42417871145687,
+                "label": "insignia:senior_explosive_ordnance_disposal_officer:silver",
+                "type": "rectangle",
+                "width": 99.3739266858494,
+                "x": 51.37126718505774,
+                "y": 5.052911526399122
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_qq.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 51.37126718505775,
+                "label": "insignia:surface_warfare_officer:gold",
+                "type": "rectangle",
+                "width": 151.58734579197366,
+                "x": 6.737215368532163,
+                "y": 3.3686076842660815
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_r.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 64.84569792212207,
+                "label": "insignia:master_explosive_ordnance_disposal_officer:silver",
+                "type": "rectangle",
+                "width": 83.37304018558552,
+                "x": 36.212532605860375,
+                "y": 3.3686076842660815
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_rr.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 39.581140290126456,
+                "label": "insignia:surface_warfare_dental_corps:gold",
+                "type": "rectangle",
+                "width": 149.90304194984063,
+                "x": 5.052911526399122,
+                "y": 9.263671131731725
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_s.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "bInsig_ss.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 41.265444132259496,
+                "label": "insignia:surface_warfare_medical_corps:gold",
+                "type": "rectangle",
+                "width": 149.90304194984063,
+                "x": 5.895063447465643,
+                "y": 8.421519210665204
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_t.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 58.1084825535899,
+                "label": "insignia:integrated_undersea_surveillance_system_officer:gold",
+                "type": "rectangle",
+                "width": 105.26899013331504,
+                "x": 44.63405181652558,
+                "y": 4.210759605332602
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_tt.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 39.581140290126456,
+                "label": "insignia:surface_warfare_medical_service_corps:gold",
+                "type": "rectangle",
+                "width": 146.53443426557453,
+                "x": 4.210759605332602,
+                "y": 9.263671131731725
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_u.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 68.21430560638815,
+                "label": "insignia:fleet_marine_force_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 167.58823229223754,
+                "x": 10.105823052798245,
+                "y": 21.89594994772953
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_uu.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 69.89860944852119,
+                "label": "insignia:fleet_marine_force_officer:gold",
+                "type": "rectangle",
+                "width": 176.85190342396928,
+                "x": 6.737215368532163,
+                "y": 3.3686076842660815
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_uu1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 39.581140290126456,
+                "label": "insignia:surface_warfare_nurse_corps:gold",
+                "type": "rectangle",
+                "width": 147.37658618664105,
+                "x": 5.895063447465643,
+                "y": 6.737215368532163
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_v.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 51.37126718505774,
+                "label": "insignia:surface_warfare_supply_corps:gold",
+                "type": "rectangle",
+                "width": 149.90304194984063,
+                "x": 5.052911526399122,
+                "y": 1.6843038421330407
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_w.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 50.529115263991216,
+                "label": "insignia:surface_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 149.90304194984063,
+                "x": 5.052911526399122,
+                "y": 2.526455763199561
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_x.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "bInsig_xx.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 54.73987486932383,
+                "label": "insignia:command_at_sea:gold",
+                "type": "rectangle",
+                "width": 57.26633063252338,
+                "x": 38.73898836905994,
+                "y": 5.052911526399122
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_y.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 53.897722948257304,
+                "label": "insignia:command_ashore_project_manager_insignia:gold",
+                "type": "rectangle",
+                "width": 63.16139407998902,
+                "x": 42.10759605332602,
+                "y": 7.579367289598683
+            }
+        ],
+        "class": "image",
+        "filename": "bInsig_z.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 176.00975150290276,
+                "label": "badge:presidential_service",
+                "type": "rectangle",
+                "width": 172.6411438186367,
+                "x": 2.526455763199561,
+                "y": 2.526455763199561
+            }
+        ],
+        "class": "image",
+        "filename": "chapter5dist_2_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 179.37835918716883,
+                "label": "badge:vice_presidential_service",
+                "type": "rectangle",
+                "width": 174.32544766076973,
+                "x": 1.6843038421330407,
+                "y": 0.0
+            }
+        ],
+        "class": "image",
+        "filename": "chapter5dist_3_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 166.74608037117105,
+                "label": "badge:office_of_secretary_of_defense",
+                "type": "rectangle",
+                "width": 170.1146880554371,
+                "x": 2.526455763199561,
+                "y": 7.579367289598683
+            }
+        ],
+        "class": "image",
+        "filename": "chapter5dist_4_2.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 165.061776529038,
+                "label": "badge:joint_chiefs_of_staff",
+                "type": "rectangle",
+                "width": 149.0608900287741,
+                "x": 2.526455763199561,
+                "y": 2.526455763199561
+            }
+        ],
+        "class": "image",
+        "filename": "chapter5dist_6_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 161.69316884477192,
+                "label": "badge:recruiting_command",
+                "type": "rectangle",
+                "width": 162.53532076583843,
+                "x": 1.6843038421330407,
+                "y": 11.790126894931285
+            }
+        ],
+        "class": "image",
+        "filename": "chapter5dist_10_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 215.59089179302921,
+                "label": "badge:career_counselor",
+                "type": "rectangle",
+                "width": 214.7487398719627,
+                "x": 2.526455763199561,
+                "y": 1.6843038421330407
+            }
+        ],
+        "class": "image",
+        "filename": "chapter5dist_11_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 169.2725361343706,
+                "label": "badge:recruit_division_command_badge",
+                "type": "rectangle",
+                "width": 167.58823229223756,
+                "x": 1.6843038421330407,
+                "y": 7.579367289598683
+            }
+        ],
+        "class": "image",
+        "filename": "chapter5dist_12_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 170.95683997650363,
+                "label": "badge:recruit_division_command_badge",
+                "type": "rectangle",
+                "width": 170.95683997650363,
+                "x": 3.3686076842660815,
+                "y": 4.210759605332602
+            }
+        ],
+        "class": "image",
+        "filename": "chapter5dist_12_2.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 96.84747092264985,
+                "label": "badge:merchant_marine_service_emblem",
+                "type": "rectangle",
+                "width": 96.00531900158332,
+                "x": 5.052911526399122,
+                "y": 3.3686076842660815
+            }
+        ],
+        "class": "image",
+        "filename": "chapter5dist_13_2.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "com.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "eame.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 184.43127071356795,
+                "label": "insignia:explosive_ordnance_disposal_officer:gold",
+                "type": "rectangle",
+                "width": 228.22317060902702,
+                "x": 13.474430737064326,
+                "y": 4.210759605332602
+            }
+        ],
+        "class": "image",
+        "filename": "EOD Officer.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 144.8501304234415,
+                "label": "insignia:engineering_duty_officer:gold",
+                "type": "rectangle",
+                "width": 396.6535548223311,
+                "x": 24.42240571092909,
+                "y": 13.474430737064326
+            }
+        ],
+        "class": "image",
+        "filename": "EOD.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 116.2169651071798,
+                "label": "insignia:enlisted_expeditionary_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 379.8105164010007,
+                "x": 15.158734579197366,
+                "y": 8.421519210665204
+            }
+        ],
+        "class": "image",
+        "filename": "EXW Insignia.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "gwem.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "gwsm.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "hd-all.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "hd-nv.gif"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 135.5864592917098,
+                "label": "insignia:enlisted_information_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 391.60064329593195,
+                "x": 5.895063447465643,
+                "y": 2.526455763199561
+            }
+        ],
+        "class": "image",
+        "filename": "IDW Enlisted.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 126.32278815997806,
+                "label": "insignia:information_warfare_officer:gold",
+                "type": "rectangle",
+                "width": 370.54684526926894,
+                "x": 17.68519034239693,
+                "y": 4.210759605332602
+            }
+        ],
+        "class": "image",
+        "filename": "IDW Officer.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "ihr.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "iraq.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 27.199904893811446,
+                "label": "ribbon:korea_defense_service",
+                "type": "rectangle",
+                "width": 100.33742694161556,
+                "x": -0.30222116548679384,
+                "y": -0.15111058274339692
+            }
+        ],
+        "class": "image",
+        "filename": "kdsm.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 115.21820961223952,
+                "label": "insignia:master_special_warfare_combatant-craft:silver",
+                "type": "rectangle",
+                "width": 245.68588814374607,
+                "x": 19.909028866820798,
+                "y": 20.332625225689327
+            }
+        ],
+        "class": "image",
+        "filename": "Master SWCC (resized).jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 237.71380466984047,
+                "label": "insignia:marine_corps_combatant_diver:gold",
+                "type": "rectangle",
+                "width": 237.71380466984047,
+                "x": 5.972708660046243,
+                "y": 9.556333856073989
+            }
+        ],
+        "class": "image",
+        "filename": "MCD Insignia.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "mcdi.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "mcsg2.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "medlhum.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 88.99335903468902,
+                "label": "insignia:navy_expeditionary_supply_corps_officer:gold",
+                "type": "rectangle",
+                "width": 285.49547395021045,
+                "x": 5.375437794041619,
+                "y": 5.375437794041619
+            }
+        ],
+        "class": "image",
+        "filename": "NESCO.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 224.01241100369444,
+                "label": "badge:navy_security_forces",
+                "type": "rectangle",
+                "width": 163.37747268690495,
+                "x": 23.58025378986257,
+                "y": 58.950634474656425
+            },
+            {
+                "class": "badge",
+                "height": 229.0653225300935,
+                "label": "badge:correction_specialist",
+                "type": "rectangle",
+                "width": 161.69316884477195,
+                "x": 297.2796281364817,
+                "y": 56.42417871145687
+            },
+            {
+                "class": "badge",
+                "height": 215.5908917930292,
+                "label": "badge:chief_master_at_arms",
+                "type": "rectangle",
+                "width": 153.27164963410667,
+                "x": 549.0830525353713,
+                "y": 64.00354600105555
+            }
+        ],
+        "class": "image",
+        "filename": "NSFEmbroidered new.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 224.0124110036944,
+                "label": "badge:chief_master_at_arms",
+                "type": "rectangle",
+                "width": 150.7451938709072,
+                "x": 561.7153313513691,
+                "y": 69.05645752745467
+            },
+            {
+                "class": "badge",
+                "height": 232.4339302143596,
+                "label": "badge:correction_specialist",
+                "type": "rectangle",
+                "width": 158.32456116050582,
+                "x": 289.700260846883,
+                "y": 58.950634474656425
+            },
+            {
+                "class": "badge",
+                "height": 230.7496263722266,
+                "label": "badge:navy_security_forces",
+                "type": "rectangle",
+                "width": 155.79810539730627,
+                "x": 24.422405710929098,
+                "y": 61.47709023785599
+            }
+        ],
+        "class": "image",
+        "filename": "NSFMetal new.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 160.8510169237054,
+                "label": "insignia:nuclear_weapons_security:silver",
+                "type": "rectangle",
+                "width": 132.2178516074437,
+                "x": 6.737215368532163,
+                "y": 7.579367289598683
+            }
+        ],
+        "class": "image",
+        "filename": "NWS Insignia.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rbncol.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib028.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib047.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib057.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib064.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib073.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib074.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib092.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib093.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib095.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib096.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib108.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib121.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib122.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib123.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib124.gif"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "rib125.gif"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 118.74342087037937,
+                "label": "insignia:senior_special_warfare_combatant-craft:silver",
+                "type": "rectangle",
+                "width": 261.90924745168786,
+                "x": 22.73810186879605,
+                "y": 18.52734226346345
+            }
+        ],
+        "class": "image",
+        "filename": "Senior SWCC.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 124.63848431784503,
+                "label": "insignia:strategic_sealift_officer_warfare:gold",
+                "type": "rectangle",
+                "width": 380.6526683220672,
+                "x": 13.474430737064326,
+                "y": 4.210759605332602
+            }
+        ],
+        "class": "image",
+        "filename": "Strategic Sealift Officer Warfare.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "vnair.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "vnhonor.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "vnmera.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "vnmern.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "vnnv.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "vntec.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "vnwound.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "ww2vict.jpg"
+    }
+]

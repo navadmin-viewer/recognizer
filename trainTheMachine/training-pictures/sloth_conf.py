@@ -30,6 +30,9 @@
 # Names taken from https://www.public.navy.mil/bupers-npc/support/uniforms/uniformregulations/Pages/NavyAwardsPrecedenceChart.aspx
 # Strip suffix ribbon/medal from listed name if listed that way. 
 
+# To download all image files from site wget -nd -r -P ./ -A jpeg,jpg,bmp,gif,png http://XXX
+# Stock images put in stockImages folder
+
 LABELS = (
      {"attributes": {"type":  "rectangle",
                     "class": "badge",
@@ -52,7 +55,8 @@ LABELS = (
                     ]},
      "item":     "sloth.items.RectItem",
      "inserter": "sloth.items.RectItemInserter",
-     "text":     "Insignia"
+     "hotkey": "q",
+     "text":     "Badges"
     },
     {"attributes": {"type":  "rectangle",
                     "class": "insignia",
@@ -67,7 +71,7 @@ LABELS = (
                         "insignia:naval_flight_officer:gold",
                         "insignia:professional_avation_maintenance_officer:gold",
                         "insignia:aerospace_experimental_psychologist_and_aerospace_physiologist:gold",
-                        "insignia:aviation_warfare_specialist:silver ",
+                        "insignia:aviation_warfare_specialist:silver",
                         "insignia:naval_aviation_supply_corps:gold",
                         "insignia:naval_aircrew_warfare_specialist:silver",
                         "insignia:explosive_ordnance_disposal_officer:gold",
@@ -126,6 +130,7 @@ LABELS = (
                     ]},
      "item":     "sloth.items.RectItem",
      "inserter": "sloth.items.RectItemInserter",
+     "hotkey": "w",
      "text":     "Insignia"
     },
     {"attributes": {"type":  "rectangle",
@@ -148,6 +153,7 @@ LABELS = (
                         "medal:defense_meritorious_service",
                         "medal:meritorious_service",
                         "medal:air",
+                        "medal:aerial_achievement",
                         "medal:joint_service_commendation",
                         "medal:army_commendation",
                         "medal:navy_and_marine_corps_commendation",
@@ -217,6 +223,7 @@ LABELS = (
                     ]},
      "item":     "sloth.items.RectItem",
      "inserter": "sloth.items.RectItemInserter",
+     "hotkey": "e",
      "text":     "Medals"
     },
     {"attributes": {"type":  "rectangle",
@@ -239,6 +246,7 @@ LABELS = (
                         "ribbon:defense_meritorious_service",
                         "ribbon:meritorious_service",
                         "ribbon:air",
+                        "ribbon:aerial_achievement",
                         "ribbon:joint_service_commendation",
                         "ribbon:army_commendation",
                         "ribbon:navy_and_marine_corps_commendation",
@@ -308,8 +316,9 @@ LABELS = (
                     ]},
      "item":     "sloth.items.RectItem",
      "inserter": "sloth.items.RectItemInserter",
+     "hotkey": "r",
      "text":     "Ribbons"
-    },
+    }
 )
 
 # HOTKEYS

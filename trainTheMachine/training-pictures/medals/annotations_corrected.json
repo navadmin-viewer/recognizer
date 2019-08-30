@@ -1,0 +1,761 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:armed_forces_reserve",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 114.53900709219869,
+                    "y": 201.06382978723423,
+                    "width": 82.97872340425539,
+                    "height": 197.87234042553212
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:armed_forces_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 159.57446808510653,
+                    "y": 208.51063829787253,
+                    "width": 82.26950354609936,
+                    "height": 192.90780141843987
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 203.19148936170234,
+                    "y": 217.0212765957449,
+                    "width": 77.30496453900716,
+                    "height": 187.23404255319167
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 263.1205673758868,
+                    "y": 223.75886524822718,
+                    "width": 116.31205673758876,
+                    "height": 193.61702127659595
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_commendation",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 323.40425531914923,
+                    "y": 243.26241134751797,
+                    "width": 140.42553191489375,
+                    "height": 180.14184397163137
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_145024.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:armed_forces_reserve",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 270.9219858156031,
+                    "y": 130.49645390070935,
+                    "width": 187.23404255319164,
+                    "height": 96.45390070921994
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:armed_forces_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 256.3829787234045,
+                    "y": 181.20567375886543,
+                    "width": 190.78014184397182,
+                    "height": 108.51063829787245
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 234.75177304964564,
+                    "y": 223.75886524822718,
+                    "width": 181.56028368794344,
+                    "height": 104.25531914893628
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 215.6028368794328,
+                    "y": 273.7588652482272,
+                    "width": 185.81560283687958,
+                    "height": 126.24113475177316
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_commendation",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 173.04964539007108,
+                    "y": 323.40425531914923,
+                    "width": 160.28368794326258,
+                    "height": 140.42553191489375
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_145026.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:armed_forces_reserve",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 295.03546099290804,
+                    "y": 190.0709219858158,
+                    "width": 63.82978723404261,
+                    "height": 72.34042553191497
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:armed_forces_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 260.28368794326263,
+                    "y": 212.4113475177307,
+                    "width": 69.50354609929087,
+                    "height": 74.46808510638303
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 226.24113475177327,
+                    "y": 233.33333333333354,
+                    "width": 76.59574468085117,
+                    "height": 66.66666666666671
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 193.61702127659595,
+                    "y": 253.54609929078038,
+                    "width": 83.68794326241144,
+                    "height": 56.0283687943263
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_commendation",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 143.9716312056739,
+                    "y": 274.4680851063832,
+                    "width": 106.38297872340435,
+                    "height": 53.90070921985824
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_145033.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_commendation",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 220.92198581560302,
+                    "y": 137.2340425531916,
+                    "width": 182.26950354609946,
+                    "height": 142.55319148936184
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 197.1631205673761,
+                    "y": 183.3333333333335,
+                    "width": 175.8865248226952,
+                    "height": 122.69503546099304
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 189.00709219858174,
+                    "y": 229.7872340425534,
+                    "width": 162.41134751773063,
+                    "height": 103.54609929078023
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:armed_forces_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 176.95035460992924,
+                    "y": 262.41134751773075,
+                    "width": 165.24822695035476,
+                    "height": 102.1276595744682
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:armed_forces_reserve",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 167.37588652482285,
+                    "y": 298.9361702127662,
+                    "width": 160.28368794326258,
+                    "height": 90.07092198581569
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190803_145038.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 324.94863551518745,
+                    "y": 57.166889581375564,
+                    "width": 56.16396169398303,
+                    "height": 114.33377916275113
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 196.77445150641904,
+                    "y": 63.18445690573088,
+                    "width": 61.3791867084243,
+                    "height": 117.5431484024073
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164712.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 244.85349056320672,
+                    "y": 59.02005961458403,
+                    "width": 215.3434607559147,
+                    "height": 114.84984573648785
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 267.5841891985533,
+                    "y": 300.6832766851105,
+                    "width": 240.0680803241864,
+                    "height": 113.25470899014772
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164750.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 243.25835381686665,
+                    "y": 151.9367750888954,
+                    "width": 210.5580505168944,
+                    "height": 163.5015164998612
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 156.72218532791572,
+                    "y": 335.77628510459294,
+                    "width": 141.16960205109964,
+                    "height": 148.34771740963018
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164757.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 337.3714218509331,
+                    "y": 148.34771740963015,
+                    "width": 122.82552946818835,
+                    "height": 82.94711080968568
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 353.32278931433416,
+                    "y": 405.96230194355775,
+                    "width": 122.82552946818835,
+                    "height": 22.331914448761477
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164809.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 282.3392041021993,
+                    "y": 202.58236678519387,
+                    "width": 156.32340114133066,
+                    "height": 140.37203367792958
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 242.8595696302816,
+                    "y": 92.51793128772633,
+                    "width": 125.21823458769856,
+                    "height": 110.06443549746751
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164823.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 265.9890524522132,
+                    "y": 139.97324949134455,
+                    "width": 131.598781573059,
+                    "height": 72.57872195847496
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 258.41215290709766,
+                    "y": 52.24072844263857,
+                    "width": 94.1130680340664,
+                    "height": 45.4613972706931
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 231.29482821931583,
+                    "y": 244.05592219003668,
+                    "width": 133.99148669256917,
+                    "height": 63.805469853604386
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 256.81701616075753,
+                    "y": 360.50090467286464,
+                    "width": 98.89847827308678,
+                    "height": 43.06869215118297
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164844.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 267.18540501196827,
+                    "y": 72.97750614505998,
+                    "width": 143.5623071706098,
+                    "height": 66.19817497311452
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 272.3695994375736,
+                    "y": 274.7623045570838,
+                    "width": 133.1939183193991,
+                    "height": 67.79331171945465
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164852.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 252.43039010832226,
+                    "y": 145.15744391694992,
+                    "width": 131.598781573059,
+                    "height": 63.805469853604365
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164912.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 200.98723003885374,
+                    "y": 153.93069602182052,
+                    "width": 193.01154630715317,
+                    "height": 100.49361501942688
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164931.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 211.7544030766495,
+                    "y": 189.42248862788793,
+                    "width": 313.4443706558315,
+                    "height": 165.09665324620127
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165604.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 239.27051195101635,
+                    "y": 203.7787193449489,
+                    "width": 298.2905715656004,
+                    "height": 139.57446530475957
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162505.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 250.83525336198215,
+                    "y": 330.1933064924026,
+                    "width": 238.47294357784628,
+                    "height": 102.08875176576701
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_good_conduct",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 235.68145427175108,
+                    "y": 121.23039272184829,
+                    "width": 254.42431104124736,
+                    "height": 118.04011922916806
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162512.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_commendation",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 305.0699027375458,
+                    "y": 111.65957224380763,
+                    "width": 141.16960205109964,
+                    "height": 68.5908800926247
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_commendation",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 301.4808450582806,
+                    "y": 271.17324687781854,
+                    "width": 205.77264027787402,
+                    "height": 89.32765779504611
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:meritorious_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 319.4261334546068,
+                    "y": 405.5635177569727,
+                    "width": 189.02370444130293,
+                    "height": 24.724619568271724
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162550.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:meritorious_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 301.0820608716956,
+                    "y": 258.01336872051263,
+                    "width": 189.02370444130293,
+                    "height": 91.72036291455628
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:navy_and_marine_corps_commendation",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 280.7440673558592,
+                    "y": 99.69604664625683,
+                    "width": 193.01154630715317,
+                    "height": 94.11306803406644
+                }
+            },
+            {
+                "class": "ribbon",
+                "label": "ribbon:joint_service_achievement",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 220.92643936810512,
+                    "y": 398.3854023984423,
+                    "width": 78.16170057066533,
+                    "height": 34.29544004631232
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162552.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:global_war_on_terrorism_expeditionary_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 243.65713800345168,
+                    "y": 118.43890341575309,
+                    "width": 112.45714061697768,
+                    "height": 51.84194425605354
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:rifle_marksmanship",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 249.63890080222706,
+                    "y": 281.5416357290292,
+                    "width": 153.13312764865046,
+                    "height": 78.16170057066533
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162600.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:rifle_marksmanship",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 243.25835381686665,
+                    "y": 139.97324949134455,
+                    "width": 148.34771740963015,
+                    "height": 80.5544056901755
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:humanitarian_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 227.30698635346553,
+                    "y": 314.2419390290015,
+                    "width": 151.53799090231036,
+                    "height": 87.73252104870605
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162605.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:humanitarian_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 90.52401035480119,
+                    "y": 397.1890498386872,
+                    "width": 80.5544056901755,
+                    "height": 41.473555404842834
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:rifle_marksmanship",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 211.35561889006445,
+                    "y": 285.5294775948795,
+                    "width": 148.34771740963015,
+                    "height": 110.06443549746756
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:global_war_on_terrorism_expeditionary_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 288.32096690097467,
+                    "y": 149.94285415597025,
+                    "width": 96.50577315357657,
+                    "height": 87.732521048706
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162609.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "medal",
+                "label": "medal:global_war_on_terrorism_expeditionary_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 332.58601161191274,
+                    "y": 214.14710819615965,
+                    "width": 138.7768969315895,
+                    "height": 137.9793285584194
+                }
+            },
+            {
+                "class": "medal",
+                "label": "medal:global_war_on_terrorism_service",
+                "type": "rectangle",
+                "coordinates": {
+                    "x": 224.11671286078533,
+                    "y": 95.70820478040653,
+                    "width": 140.3720336779296,
+                    "height": 116.44498248282795
+                }
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162617.jpg"
+    }
+]

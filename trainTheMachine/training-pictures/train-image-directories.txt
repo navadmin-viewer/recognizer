@@ -1,0 +1,5 @@
+insignia
+medals
+ribbons
+various
+stockImages

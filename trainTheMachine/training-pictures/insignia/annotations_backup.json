@@ -4,7 +4,7 @@
             {
                 "class": "decoration",
                 "height": 1258.6462290000004,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 1213.7946930000003,
                 "x": 521.3991060000002,
@@ -19,7 +19,7 @@
             {
                 "class": "decoration",
                 "height": 1180.1560410000006,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 1140.9109470000003,
                 "x": 426.08959200000015,
@@ -34,7 +34,7 @@
             {
                 "class": "decoration",
                 "height": 939.0790350000004,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 941.8822560000003,
                 "x": 793.3115430000003,
@@ -49,7 +49,7 @@
             {
                 "class": "decoration",
                 "height": 470.94112800000016,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 473.7443490000003,
                 "x": 1199.7785880000004,
@@ -64,7 +64,7 @@
             {
                 "class": "decoration",
                 "height": 573.8700000000002,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 613.3500000000003,
                 "x": 996.8700000000005,
@@ -79,7 +79,7 @@
             {
                 "class": "decoration",
                 "height": 556.9500000000003,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 597.8400000000004,
                 "x": 599.2500000000002,
@@ -94,7 +94,7 @@
             {
                 "class": "decoration",
                 "height": 595.0200000000002,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 783.9600000000003,
                 "x": 678.2100000000003,
@@ -109,7 +109,7 @@
             {
                 "class": "decoration",
                 "height": 831.0258000000003,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 749.5137000000003,
                 "x": 940.3713000000004,
@@ -124,7 +124,7 @@
             {
                 "class": "decoration",
                 "height": 331.80785690020866,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 326.7549453738095,
                 "x": 1306.1776295741713,
@@ -139,7 +139,7 @@
             {
                 "class": "decoration",
                 "height": 474.9736834815169,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 342.75583187407346,
                 "x": 1139.4315492030005,
@@ -154,7 +154,7 @@
             {
                 "class": "decoration",
                 "height": 448.02482200738814,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 286.3316531626165,
                 "x": 1143.6423088083332,
@@ -169,7 +169,7 @@
             {
                 "class": "decoration",
                 "height": 231.59177829329292,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 492.6588738239136,
                 "x": 1184.0656010195262,
@@ -184,7 +184,7 @@
             {
                 "class": "decoration",
                 "height": 1057.6106017451566,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 1064.6928155961284,
                 "x": 757.7968820540073,
@@ -199,7 +199,7 @@
             {
                 "class": "decoration",
                 "height": 1111.9075746026087,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 1114.2683125529327,
                 "x": 743.6324543520632,
@@ -214,7 +214,7 @@
             {
                 "class": "decoration",
                 "height": 828.6190205637275,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 899.4411590734479,
                 "x": 748.3539302527112,
@@ -229,7 +229,7 @@
             {
                 "class": "decoration",
                 "height": 710.5821230475271,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 882.9159934211798,
                 "x": 1107.1860987019606,
@@ -259,7 +259,7 @@
             {
                 "class": "decoration",
                 "height": 417.85061720734984,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 434.37578285961786,
                 "x": 923.0485385766879,
@@ -274,7 +274,7 @@
             {
                 "class": "decoration",
                 "height": 493.3942316177181,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 398.96471360475766,
                 "x": 1251.1911136717254,
@@ -289,7 +289,7 @@
             {
                 "class": "decoration",
                 "height": 328.0609536300002,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 450.5897435400004,
                 "x": 1229.240440710001,
@@ -304,7 +304,7 @@
             {
                 "class": "decoration",
                 "height": 671.9320737000006,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 671.9320737000005,
                 "x": 786.5557803900006,
@@ -319,7 +319,7 @@
             {
                 "class": "decoration",
                 "height": 411.06432744000017,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 395.2541610000003,
                 "x": 802.3659468300007,
@@ -334,7 +334,7 @@
             {
                 "class": "decoration",
                 "height": 399.2067026100001,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 399.20670261000043,
                 "x": 810.2710300500006,
@@ -349,7 +349,7 @@
             {
                 "class": "decoration",
                 "height": 411.0643274400004,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 387.34907778000024,
                 "x": 1075.0913179200008,
@@ -364,7 +364,7 @@
             {
                 "class": "decoration",
                 "height": 430.8270354900003,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 351.77620329000047,
                 "x": 1134.3794420700008,
@@ -379,7 +379,7 @@
             {
                 "class": "decoration",
                 "height": 474.30499320000035,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 418.96941066000045,
                 "x": 1134.3794420700008,
@@ -394,7 +394,7 @@
             {
                 "class": "decoration",
                 "height": 359.6812865100003,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 371.53891134000025,
                 "x": 1007.8981105500008,
@@ -403,7 +403,7 @@
             {
                 "class": "decoration",
                 "height": 221.34233016000007,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 229.24741338000018,
                 "x": 150.19658118000012,
@@ -412,7 +412,7 @@
             {
                 "class": "decoration",
                 "height": 173.91183084,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 177.86437245000025,
                 "x": 1853.7420150900014,
@@ -427,7 +427,7 @@
             {
                 "class": "decoration",
                 "height": 177.86437245000025,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 193.67453889000012,
                 "x": 2015.7962211000015,
@@ -436,7 +436,7 @@
             {
                 "class": "decoration",
                 "height": 328.0609536300003,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 335.96603685000036,
                 "x": 1146.2370669000009,
@@ -445,7 +445,7 @@
             {
                 "class": "decoration",
                 "height": 173.91183084000022,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 181.81691406000016,
                 "x": 415.0168690500003,
@@ -460,7 +460,7 @@
             {
                 "class": "decoration",
                 "height": 300.39316236000025,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 324.1084120200003,
                 "x": 1189.715024610001,
@@ -469,7 +469,7 @@
             {
                 "class": "decoration",
                 "height": 177.86437245000013,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 189.7219972800002,
                 "x": 454.54228515000034,
@@ -478,7 +478,7 @@
             {
                 "class": "decoration",
                 "height": 166.00674762000017,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 162.05420601000037,
                 "x": 1936.7453889000014,
@@ -493,7 +493,7 @@
             {
                 "class": "decoration",
                 "height": 181.81691406000004,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 193.67453889000012,
                 "x": 189.72199728000015,
@@ -502,7 +502,7 @@
             {
                 "class": "decoration",
                 "height": 351.77620329000024,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 379.4439945600003,
                 "x": 976.2777776700008,
@@ -511,7 +511,7 @@
             {
                 "class": "decoration",
                 "height": 189.7219972800001,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 197.62708050000037,
                 "x": 1901.1725144100014,

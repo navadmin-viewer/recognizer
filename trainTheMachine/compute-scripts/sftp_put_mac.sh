@@ -13,4 +13,4 @@
 # ssh
 # watch -d -n 0.5 nvidia-smi
 
-./trainTheMachine/hpc/osshUtil/sftp $USER@gaffney.navydsrc.hpc.mil <<< $'put trainTheMachine.tar.gz'
+sftp $USER@gaffney.navydsrc.hpc.mil <<< $'put trainTheMachine.tar.gz'

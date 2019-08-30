@@ -1,2 +1,7 @@
 training-picture-original/*
-model
+models/*
+trainTheMachine.tar.gz
+
+# Ignore some system and development generated files
+.DS_STORE
+__pycache__

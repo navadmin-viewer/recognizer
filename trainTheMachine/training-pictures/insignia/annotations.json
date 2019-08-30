@@ -2,9 +2,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 213.8875944705883,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 206.26576482352948,
                 "x": 88.60376964705885,
@@ -17,9 +17,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 200.5493925882354,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 193.8802916470589,
                 "x": 72.40738164705886,
@@ -32,9 +32,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 159.5820582352942,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 160.05842258823535,
                 "x": 134.811111882353,
@@ -47,9 +47,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 80.02921129411767,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 80.50557564705888,
                 "x": 203.8839430588236,
@@ -62,9 +62,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 97.52039215686278,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 104.22941176470593,
                 "x": 169.4027450980393,
@@ -77,9 +77,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 94.64509803921574,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 101.59372549019615,
                 "x": 101.83333333333337,
@@ -92,9 +92,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 101.1145098039216,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 133.22196078431378,
                 "x": 115.25137254901966,
@@ -107,9 +107,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 141.22007058823536,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 127.36834117647065,
                 "x": 159.8016588235295,
@@ -122,9 +122,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 56.38564888500278,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 55.52698418117024,
                 "x": 221.96482594070886,
@@ -137,9 +137,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 80.71448216025777,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 58.24608907663994,
                 "x": 193.62889071423538,
@@ -152,9 +152,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 76.13493707315092,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 48.657666550509994,
                 "x": 194.34444463409585,
@@ -167,9 +167,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 39.355465592324286,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 83.7198086236716,
                 "x": 201.2137622647561,
@@ -182,9 +182,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 179.72467742074556,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 180.9281908856166,
                 "x": 128.77594074120384,
@@ -197,9 +197,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 188.95161398475705,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 189.35278513971406,
                 "x": 126.36891381146172,
@@ -212,9 +212,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 140.8110753899145,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 152.84621003862514,
                 "x": 127.17125612137576,
@@ -227,9 +227,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 120.75251764206344,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 150.03801195392597,
                 "x": 188.149271674843,
@@ -242,9 +242,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 102.69981566899745,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 104.70567144378258,
                 "x": 140.40990423495745,
@@ -257,9 +257,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 71.0072944273928,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 73.81549251209192,
                 "x": 156.85792158819532,
@@ -272,9 +272,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 83.84477138601746,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 67.7979251877366,
                 "x": 212.6207121272213,
@@ -287,9 +287,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 55.74892022470592,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 76.57080609176478,
                 "x": 208.89053240823546,
@@ -302,9 +302,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 114.18453540000012,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 114.18453540000009,
                 "x": 133.66307379176482,
@@ -317,9 +317,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 69.85406871529415,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 67.16737376470593,
                 "x": 136.34976874235306,
@@ -332,9 +332,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 67.83904750235295,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 67.83904750235301,
                 "x": 137.69311621764717,
@@ -347,9 +347,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 69.85406871529419,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 65.8240262894118,
                 "x": 182.69525664000014,
@@ -362,9 +362,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 73.21243740352946,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 59.77896265058832,
                 "x": 192.77036270470603,
@@ -377,9 +377,9 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 80.60084851764712,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 71.19741619058831,
                 "x": 192.77036270470603,
@@ -392,31 +392,58 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 61.12231012588241,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 63.13733133882358,
                 "x": 171.27680310000014,
                 "y": 229.7124182752943
             },
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 37.61372930823531,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 38.957076783529445,
                 "x": 25.523602030588258,
                 "y": 231.05576575058842
             },
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 29.55364445647059,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 30.22531819411769,
                 "x": 315.0149829564708,
                 "y": 257.9227152564708
+            },
+            {
+                "class": "insignia",
+                "height": 26.950354609929086,
+                "label": "insignia:ssbn_deterrent_patrol:silver",
+                "type": "rectangle",
+                "width": 55.31914893617022,
+                "x": 169.50354609929084,
+                "y": 39.7163120567376
+            },
+            {
+                "class": "insignia",
+                "height": 59.5744680851064,
+                "label": "insignia:ssbn_deterrent_patrol:silver",
+                "type": "rectangle",
+                "width": 63.829787234042584,
+                "x": 38.29787234042554,
+                "y": 8.510638297872344
+            },
+            {
+                "class": "insignia",
+                "height": 42.55319148936172,
+                "label": "insignia:ssbn_deterrent_patrol:silver",
+                "type": "rectangle",
+                "width": 56.737588652482316,
+                "x": 300.70921985815613,
+                "y": 53.90070921985817
             }
         ],
         "class": "image",
@@ -425,31 +452,67 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 30.22531819411769,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 32.9120131447059,
                 "x": 342.5536062000003,
                 "y": 255.23602030588256
             },
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 55.74892022470594,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 57.092267700000065,
                 "x": 194.7853839176472,
                 "y": 235.75748191411785
             },
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 29.55364445647063,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 30.896991931764735,
                 "x": 70.52574245294123,
                 "y": 246.50426171647078
+            },
+            {
+                "class": "insignia",
+                "height": 54.82621598511143,
+                "label": "insignia:ssbn_deterrent_patrol:silver",
+                "type": "rectangle",
+                "width": 62.371108093154305,
+                "x": 324.4303606458428,
+                "y": 44.263367033851424
+            },
+            {
+                "class": "insignia",
+                "height": 22.634676324128577,
+                "label": "insignia:ssbn_deterrent_patrol:silver",
+                "type": "rectangle",
+                "width": 50.29928072028571,
+                "x": 188.62230270107142,
+                "y": 70.4189930084
+            },
+            {
+                "class": "insignia",
+                "height": 56.33519440672,
+                "label": "insignia:ssbn_deterrent_patrol:silver",
+                "type": "rectangle",
+                "width": 49.79628791308285,
+                "x": 93.55666213973142,
+                "y": 60.35913686434285
+            },
+            {
+                "class": "insignia",
+                "height": 20.119712288114286,
+                "label": "insignia:ssbn_deterrent_patrol:silver",
+                "type": "rectangle",
+                "width": 36.215482118605706,
+                "x": 1.0059856144057164,
+                "y": 86.01177003168857
             }
         ],
         "class": "image",
@@ -458,31 +521,67 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 51.047204061176515,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 55.07724648705887,
                 "x": 202.17379503176488,
                 "y": 137.0214424800001
             },
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 30.22531819411767,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 32.24033940705886,
                 "x": 77.24247982941182,
                 "y": 116.19955661294128
             },
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 28.2102969811765,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 27.538623243529475,
                 "x": 329.12013144705907,
                 "y": 169.26178188705896
+            },
+            {
+                "class": "insignia",
+                "height": 78.01418439716315,
+                "label": "insignia:enlisted_information_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 88.65248226950358,
+                "x": 12.765957446808514,
+                "y": 338.29787234042567
+            },
+            {
+                "class": "insignia",
+                "height": 68.08510638297872,
+                "label": "insignia:information_warfare_officer:gold",
+                "type": "rectangle",
+                "width": 48.936170212765944,
+                "x": 346.808510638298,
+                "y": 347.517730496454
+            },
+            {
+                "class": "insignia",
+                "height": 28.368794326241186,
+                "label": "insignia:information_warfare_officer:gold",
+                "type": "rectangle",
+                "width": 56.73758865248229,
+                "x": 216.31205673758873,
+                "y": 387.94326241134763
+            },
+            {
+                "class": "insignia",
+                "height": 29.078014184397176,
+                "label": "insignia:ssbn_deterrent_patrol:silver",
+                "type": "rectangle",
+                "width": 43.26241134751774,
+                "x": 297.163120567376,
+                "y": 20.56737588652483
             }
         ],
         "class": "image",
@@ -491,34 +590,786 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 30.896991931764713,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 32.9120131447059,
                 "x": 32.24033940705885,
                 "y": 216.95061726000017
             },
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 59.77896265058828,
-                "label": "insignia:small_craft_insignia:silver",
+                "label": "insignia:small_craft_petty_officer_in_charge:silver",
                 "type": "rectangle",
                 "width": 64.4806788141177,
                 "x": 165.90341319882367,
                 "y": 204.86048998235313
             },
             {
-                "class": "decoration",
+                "class": "insignia",
                 "height": 32.24033940705884,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "insignia:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 33.58368688235301,
                 "x": 323.07506780823553,
                 "y": 228.36907080000017
+            },
+            {
+                "class": "insignia",
+                "height": 58.15602836879435,
+                "label": "insignia:ssbn_deterrent_patrol:silver",
+                "type": "rectangle",
+                "width": 60.283687943262436,
+                "x": 49.645390070922005,
+                "y": 9.929078014184398
+            },
+            {
+                "class": "insignia",
+                "height": 26.950354609929086,
+                "label": "insignia:ssbn_deterrent_patrol:silver",
+                "type": "rectangle",
+                "width": 54.609929078014204,
+                "x": 163.8297872340426,
+                "y": 23.404255319148945
+            },
+            {
+                "class": "insignia",
+                "height": 48.22695035460995,
+                "label": "insignia:ssbn_deterrent_patrol:silver",
+                "type": "rectangle",
+                "width": 60.992907801418426,
+                "x": 307.80141843971643,
+                "y": 19.14893617021277
             }
         ],
         "class": "image",
         "filename": "20190803_144516.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 168.5640958898412,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 165.17018791890482,
+                "x": 179.8771224596292,
+                "y": 106.90810108449661
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165714.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 166.57508693647068,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 171.94847683764715,
+                "x": 144.40985359411772,
+                "y": 100.07938690941182
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165728.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 182.6952566400001,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 179.3368879517648,
+                "x": 170.60512936235304,
+                "y": 115.52788287529418
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165733.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 138.36478995529419,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 130.30470510352944,
+                "x": 197.47207886823543,
+                "y": 189.41199401647071
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165741.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 140.3798111682354,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 139.7081374305883,
+                "x": 143.0665061188236,
+                "y": 151.79826470823537
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165750.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 170.60512936235304,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 176.65019300117655,
+                "x": 181.35190916470597,
+                "y": 184.03860411529425
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165800.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 82.61586973058827,
+                "label": "badge:command_senior_enlisted_leader",
+                "type": "rectangle",
+                "width": 45.33797729117649,
+                "x": 62.4656576011765,
+                "y": 162.54504451058833
+            },
+            {
+                "class": "insignia",
+                "height": 38.95707678352944,
+                "label": "insignia:command_ashore_project_manager_insignia:gold",
+                "type": "rectangle",
+                "width": 30.729073497352964,
+                "x": 197.97583417147067,
+                "y": 173.96349805058833
+            },
+            {
+                "class": "insignia",
+                "height": 73.8841111411765,
+                "label": "insignia:command_ashore_project_manager_insignia:gold",
+                "type": "rectangle",
+                "width": 65.99194472382355,
+                "x": 320.8921281608825,
+                "y": 151.79826470823537
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162031.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 74.55578487882356,
+                "label": "badge:command_senior_enlisted_leader",
+                "type": "rectangle",
+                "width": 46.34548789764707,
+                "x": 216.1110250879413,
+                "y": 183.36693037764718
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162036.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 47.017161635294144,
+                "label": "badge:command_senior_enlisted_leader",
+                "type": "rectangle",
+                "width": 46.34548789764708,
+                "x": 110.32241140852948,
+                "y": 51.04720406117651
+            },
+            {
+                "class": "insignia",
+                "height": 30.896991931764713,
+                "label": "insignia:command_ashore_project_manager_insignia:gold",
+                "type": "rectangle",
+                "width": 21.661478039117643,
+                "x": 153.1416121835295,
+                "y": 180.00856168941186
+            },
+            {
+                "class": "insignia",
+                "height": 57.76394143764709,
+                "label": "insignia:command_ashore_project_manager_insignia:gold",
+                "type": "rectangle",
+                "width": 37.27789243941177,
+                "x": 170.77304779676479,
+                "y": 285.4613385000002
+            },
+            {
+                "class": "badge",
+                "height": 22.836907080000035,
+                "label": "badge:command_senior_enlisted_leader",
+                "type": "rectangle",
+                "width": 19.142701522941184,
+                "x": 357.1625099938237,
+                "y": 181.35190916470597
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162042.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 30.22531819411769,
+                "label": "insignia:command_ashore_project_manager_insignia:gold",
+                "type": "rectangle",
+                "width": 29.55364445647059,
+                "x": 241.13087181529426,
+                "y": 204.86048998235304
+            },
+            {
+                "class": "insignia",
+                "height": 61.12231012588241,
+                "label": "insignia:command_ashore_project_manager_insignia:gold",
+                "type": "rectangle",
+                "width": 50.37553032352947,
+                "x": 237.77250312705894,
+                "y": 318.3733516447061
+            },
+            {
+                "class": "badge",
+                "height": 43.65879294705885,
+                "label": "badge:command_senior_enlisted_leader",
+                "type": "rectangle",
+                "width": 58.43561517529415,
+                "x": 215.607269784706,
+                "y": 76.57080609176475
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162052.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 36.27038183294118,
+                "label": "badge:command_senior_enlisted_leader",
+                "type": "rectangle",
+                "width": 38.95707678352944,
+                "x": 248.51928292941193,
+                "y": 216.27894352235307
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162055.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "badge",
+                "height": 49.70385658588238,
+                "label": "badge:command_senior_enlisted_leader",
+                "type": "rectangle",
+                "width": 62.46565760117651,
+                "x": 120.90127277647066,
+                "y": 27.53862324352943
+            },
+            {
+                "class": "insignia",
+                "height": 31.56866566941178,
+                "label": "insignia:command_ashore_project_manager_insignia:gold",
+                "type": "rectangle",
+                "width": 30.896991931764713,
+                "x": 197.47207886823543,
+                "y": 155.15663339647068
+            },
+            {
+                "class": "insignia",
+                "height": 61.122310125882365,
+                "label": "insignia:command_ashore_project_manager_insignia:gold",
+                "type": "rectangle",
+                "width": 53.73389901176471,
+                "x": 241.80254555294133,
+                "y": 261.9527576823531
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162100.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "20190810_162101.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 71.19741619058827,
+                "label": "insignia:submarine_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 73.21243740352946,
+                "x": 191.42701522941186,
+                "y": 31.568665669411782
+            },
+            {
+                "class": "insignia",
+                "height": 51.718877798823556,
+                "label": "insignia:surface_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 17.463517178823565,
+                "x": 231.7274394882354,
+                "y": 174.6351717882354
+            },
+            {
+                "class": "insignia",
+                "height": 64.48067881411772,
+                "label": "insignia:surface_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 81.27252225529415,
+                "x": 196.1287313929413,
+                "y": 315.01498295647076
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162110.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 42.31544547176471,
+                "label": "insignia:surface_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 31.568665669411818,
+                "x": 217.62229099764716,
+                "y": 201.50212129411776
+            },
+            {
+                "class": "insignia",
+                "height": 89.33260710705886,
+                "label": "insignia:surface_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 37.61372930823531,
+                "x": 130.3047051035295,
+                "y": 284.11799102470604
+            },
+            {
+                "class": "insignia",
+                "height": 87.98925963176475,
+                "label": "insignia:submarine_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 26.866949505882335,
+                "x": 282.10296981176486,
+                "y": 75.22745861647064
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162114.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 57.76394143764709,
+                "label": "insignia:submarine_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 79.257501042353,
+                "x": 167.9184344117648,
+                "y": 20.150212129411777
+            },
+            {
+                "class": "insignia",
+                "height": 48.36050911058828,
+                "label": "insignia:surface_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 22.16523334235293,
+                "x": 236.42915565176486,
+                "y": 149.11156975764715
+            },
+            {
+                "class": "insignia",
+                "height": 51.718877798823556,
+                "label": "insignia:surface_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 87.31758589411771,
+                "x": 230.3840920129413,
+                "y": 286.8046859752943
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162121.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 141.05148490588243,
+                "label": "insignia:surface_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 159.186675822353,
+                "x": 200.83044755647072,
+                "y": 155.82830713411775
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162128.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 106.79612428588241,
+                "label": "insignia:submarine_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 130.9763788411765,
+                "x": 227.025723324706,
+                "y": 152.46993844588243
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162132.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 90.00428084470593,
+                "label": "insignia:aviation_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 115.52788287529418,
+                "x": 197.47207886823543,
+                "y": 80.60084851764711
+            },
+            {
+                "class": "insignia",
+                "height": 106.12445054823537,
+                "label": "insignia:aviation_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 123.5879677270589,
+                "x": 201.50212129411776,
+                "y": 270.0128425341178
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162139.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 85.97423841882357,
+                "label": "insignia:engineering_duty_officer:gold",
+                "type": "rectangle",
+                "width": 124.25964146470596,
+                "x": 182.6952566400001,
+                "y": 76.57080609176475
+            },
+            {
+                "class": "insignia",
+                "height": 113.51286166235299,
+                "label": "insignia:special_warfare_insignia:gold",
+                "type": "rectangle",
+                "width": 122.24462025176477,
+                "x": 189.41199401647071,
+                "y": 245.1609142411766
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162146.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 120.90127277647065,
+                "label": "insignia:special_warfare_insignia:gold",
+                "type": "rectangle",
+                "width": 127.61801015294124,
+                "x": 221.65233342352954,
+                "y": 34.25536062000002
+            },
+            {
+                "class": "insignia",
+                "height": 78.58582730470593,
+                "label": "insignia:submarine_officer:gold",
+                "type": "rectangle",
+                "width": 27.538623243529436,
+                "x": 270.68451627176483,
+                "y": 240.45919807764722
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162149.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 76.57080609176474,
+                "label": "insignia:submarine_officer:gold",
+                "type": "rectangle",
+                "width": 24.18025455529412,
+                "x": 272.69953748470607,
+                "y": 242.4742192905884
+            },
+            {
+                "class": "insignia",
+                "height": 119.55792530117654,
+                "label": "insignia:special_warfare_insignia:gold",
+                "type": "rectangle",
+                "width": 128.2896838905883,
+                "x": 221.65233342352954,
+                "y": 34.92703435764708
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162150.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 106.79612428588243,
+                "label": "insignia:surface_warfare_officer:gold",
+                "type": "rectangle",
+                "width": 120.22959903882358,
+                "x": 209.5622061458825,
+                "y": 56.420593962352974
+            },
+            {
+                "class": "insignia",
+                "height": 92.69097579529422,
+                "label": "insignia:naval_aviator_insignia:gold",
+                "type": "rectangle",
+                "width": 125.60298894000009,
+                "x": 198.14375260588244,
+                "y": 276.05790617294133
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162153.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 77.2424798294118,
+                "label": "insignia:surface_warfare_officer:gold",
+                "type": "rectangle",
+                "width": 27.538623243529436,
+                "x": 237.1008293894119,
+                "y": 75.22745861647064
+            },
+            {
+                "class": "insignia",
+                "height": 102.76608186000006,
+                "label": "insignia:surface_warfare_officer:gold",
+                "type": "rectangle",
+                "width": 124.25964146470596,
+                "x": 194.78538391764718,
+                "y": 260.609410207059
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162156.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 136.34976874235298,
+                "label": "insignia:surface_warfare_officer:gold",
+                "type": "rectangle",
+                "width": 79.92917478000005,
+                "x": 204.86048998235304,
+                "y": 233.7424607011766
+            },
+            {
+                "class": "insignia",
+                "height": 73.8841111411765,
+                "label": "insignia:surface_warfare_officer:gold",
+                "type": "rectangle",
+                "width": 42.31544547176471,
+                "x": 299.56648699058843,
+                "y": 84.63089094352947
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162208.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 128.96135762823536,
+                "label": "insignia:surface_warfare_officer:gold",
+                "type": "rectangle",
+                "width": 97.39269195882359,
+                "x": 264.6394526329413,
+                "y": 34.25536062000002
+            },
+            {
+                "class": "insignia",
+                "height": 120.90127277647068,
+                "label": "insignia:naval_aviator_insignia:gold",
+                "type": "rectangle",
+                "width": 90.00428084470593,
+                "x": 196.1287313929413,
+                "y": 235.7574819141178
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162211.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 46.34548789764709,
+                "label": "insignia:aviation_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 64.48067881411768,
+                "x": 323.7467415458825,
+                "y": 188.06864654117658
+            },
+            {
+                "class": "insignia",
+                "height": 54.40557274941181,
+                "label": "insignia:aviation_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 67.1673737647059,
+                "x": 331.1351526600002,
+                "y": 286.1330122376472
+            },
+            {
+                "class": "insignia",
+                "height": 57.76394143764709,
+                "label": "insignia:surface_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 51.718877798823556,
+                "x": 339.866911249412,
+                "y": 93.36264953294123
+            },
+            {
+                "class": "insignia",
+                "height": 44.330466684705904,
+                "label": "insignia:engineering_duty_officer:gold",
+                "type": "rectangle",
+                "width": 65.15235255176475,
+                "x": 89.33260710705886,
+                "y": 92.01930205764712
+            },
+            {
+                "class": "insignia",
+                "height": 59.107288912941215,
+                "label": "insignia:special_warfare_insignia:gold",
+                "type": "rectangle",
+                "width": 65.15235255176475,
+                "x": 96.72101822117652,
+                "y": 180.00856168941186
+            },
+            {
+                "class": "insignia",
+                "height": 40.97209799647059,
+                "label": "insignia:submarine_officer:gold",
+                "type": "rectangle",
+                "width": 14.105148490588231,
+                "x": 121.57294651411773,
+                "y": 282.10296981176486
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162224.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 69.1823949776471,
+                "label": "insignia:surface_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 25.523602030588247,
+                "x": 239.78752434000015,
+                "y": 77.2424798294118
+            },
+            {
+                "class": "insignia",
+                "height": 92.01930205764712,
+                "label": "insignia:surface_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 108.81114549882358,
+                "x": 188.06864654117658,
+                "y": 261.28108394470604
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162238.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 76.57080609176474,
+                "label": "insignia:submarine_enlisted_warfare_specialist:silver",
+                "type": "rectangle",
+                "width": 21.493559604705908,
+                "x": 233.07078696352954,
+                "y": 257.9227152564707
+            },
+            {
+                "class": "insignia",
+                "height": 81.27252225529418,
+                "label": "insignia:senior_explosive_ordnance_disposal_officer:silver",
+                "type": "rectangle",
+                "width": 47.68883537294118,
+                "x": 203.51714250705896,
+                "y": 75.89913235411768
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162247.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 38.957076783529416,
+                "label": "insignia:command_at_sea:gold",
+                "type": "rectangle",
+                "width": 32.24033940705888,
+                "x": 230.3840920129413,
+                "y": 159.8583495600001
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162253.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 74.55578487882359,
+                "label": "insignia:basic_explosive_ordnance_disposal_officer:silver",
+                "type": "rectangle",
+                "width": 34.25536061999999,
+                "x": 229.71241827529425,
+                "y": 239.78752434000015
+            }
+        ],
+        "class": "image",
+        "filename": "20190810_162256.jpg"
     }
 ]

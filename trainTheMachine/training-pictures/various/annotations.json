@@ -2,16 +2,16 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "medal",
                 "height": 109.40022874494208,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "medal:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 106.53384720577328,
                 "x": 107.48930771882954,
                 "y": 164.8169385022053
             },
             {
-                "class": "decoration",
+                "class": "ribbon",
                 "height": 96.50151181868253,
                 "label": "ribbon:pistol_marksmanship",
                 "type": "rectangle",
@@ -20,7 +20,7 @@
                 "y": 132.8090113148205
             },
             {
-                "class": "decoration",
+                "class": "ribbon",
                 "height": 96.50151181868253,
                 "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
@@ -35,16 +35,16 @@
     {
         "annotations": [
             {
-                "class": "decoration",
+                "class": "medal",
                 "height": 73.57045950533225,
-                "label": "insignia:small_craft_insignia:gold",
+                "label": "medal:small_craft_officer_in_charge:gold",
                 "type": "rectangle",
                 "width": 71.6595384792197,
                 "x": 193.9584841504213,
                 "y": 185.35933953291493
             },
             {
-                "class": "decoration",
+                "class": "ribbon",
                 "height": 65.92677540088211,
                 "label": "ribbon:navy_and_marine_corps_achievement",
                 "type": "rectangle",
@@ -53,7 +53,7 @@
                 "y": 154.78460311511455
             },
             {
-                "class": "decoration",
+                "class": "ribbon",
                 "height": 63.53812411824146,
                 "label": "ribbon:pistol_marksmanship",
                 "type": "rectangle",
@@ -64,5 +64,560 @@
         ],
         "class": "image",
         "filename": "mixed0038.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "insignia",
+                "height": 47.514711593109595,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 45.252106279152,
+                "x": 149.3319507212016,
+                "y": 178.180168474161
+            },
+            {
+                "class": "ribbon",
+                "height": 86.5446532588782,
+                "label": "ribbon:national_defense_service",
+                "type": "rectangle",
+                "width": 44.68645495066263,
+                "x": 199.67491895675818,
+                "y": 169.12974721833058
+            },
+            {
+                "class": "ribbon",
+                "height": 83.15074528794182,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 41.85819830821563,
+                "x": 180.4427737881186,
+                "y": 250.0178871923148
+            },
+            {
+                "class": "ribbon",
+                "height": 89.93856122981461,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 45.81775760764142,
+                "x": 220.604018110866,
+                "y": 85.97900193038879
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164403.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 45.252106279152024,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 22.626053139575994,
+                "x": 203.06882692769463,
+                "y": 161.210628619479
+            },
+            {
+                "class": "ribbon",
+                "height": 66.57734060988882,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 27.882817862261135,
+                "x": 213.38891221118217,
+                "y": 256.63573175264844
+            },
+            {
+                "class": "ribbon",
+                "height": 50.8104575163401,
+                "label": "ribbon:national_defense_service",
+                "type": "rectangle",
+                "width": 23.960784313725608,
+                "x": 207.83006535947794,
+                "y": 206.30065359477206
+            },
+            {
+                "class": "insignia",
+                "height": 30.671503220898096,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 35.312585945112964,
+                "x": 163.04325396372147,
+                "y": 221.7630397353093
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164410.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 30.855091012421877,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 20.806887031402887,
+                "x": 202.5880317789279,
+                "y": 219.3350384139595
+            },
+            {
+                "class": "ribbon",
+                "height": 47.230079236075014,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 25.32215091572696,
+                "x": 213.6734307607971,
+                "y": 285.9411423629841
+            },
+            {
+                "class": "ribbon",
+                "height": 37.04575163398708,
+                "label": "ribbon:national_defense_service",
+                "type": "rectangle",
+                "width": 21.07189542483672,
+                "x": 207.4901960784322,
+                "y": 250.14379084967422
+            },
+            {
+                "class": "insignia",
+                "height": 21.07189542483672,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 27.01960784313741,
+                "x": 173.84313725490284,
+                "y": 263.7385620915046
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164422.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 18.20636709993088,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 18.633746609318944,
+                "x": 227.36589899444215,
+                "y": 280.1045304529274
+            },
+            {
+                "class": "ribbon",
+                "height": 29.020892060720783,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 24.753113816497137,
+                "x": 240.9872115238284,
+                "y": 318.3762570190838
+            },
+            {
+                "class": "ribbon",
+                "height": 21.41176470588243,
+                "label": "ribbon:national_defense_service",
+                "type": "rectangle",
+                "width": 19.03267973856217,
+                "x": 234.16993464052382,
+                "y": 298.4052287581711
+            },
+            {
+                "class": "insignia",
+                "height": 13.424836601307268,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 23.790849673202732,
+                "x": 205.79084967320367,
+                "y": 309.45098039215844
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164432.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 41.63398692810466,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 13.764705882352942,
+                "x": 352.44444444444514,
+                "y": 81.90849673202631
+            },
+            {
+                "class": "ribbon",
+                "height": 50.64430183145391,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 17.355631526509455,
+                "x": 352.51848297287296,
+                "y": 167.86594427279664
+            },
+            {
+                "class": "ribbon",
+                "height": 45.03267973856229,
+                "label": "ribbon:national_defense_service",
+                "type": "rectangle",
+                "width": 14.274509803921646,
+                "x": 352.4444444444458,
+                "y": 123.20261437908546
+            },
+            {
+                "class": "insignia",
+                "height": 26.477296227163517,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 25.67495391724946,
+                "x": 316.52404126109116,
+                "y": 132.3864811358176
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164440.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 29.318234344020212,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 22.565638095689014,
+                "x": 150.9504427158591,
+                "y": 253.521524968991
+            },
+            {
+                "class": "ribbon",
+                "height": 39.832596946087335,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 29.305410610335695,
+                "x": 176.68601931085882,
+                "y": 307.8490706833322
+            },
+            {
+                "class": "ribbon",
+                "height": 33.900082507308404,
+                "label": "ribbon:national_defense_service",
+                "type": "rectangle",
+                "width": 24.41613085347805,
+                "x": 162.63968155292008,
+                "y": 279.07032206909236
+            },
+            {
+                "class": "insignia",
+                "height": 18.564330896859357,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 23.00362741567357,
+                "x": 138.82890931564398,
+                "y": 298.6435839929551
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164447.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 27.554901960784388,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 21.085490196078496,
+                "x": 125.07529411764739,
+                "y": 169.1631372549024
+            },
+            {
+                "class": "ribbon",
+                "height": 36.70289290032334,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 27.598299312646223,
+                "x": 145.95801595244862,
+                "y": 219.6483203027102
+            },
+            {
+                "class": "ribbon",
+                "height": 29.258999783093536,
+                "label": "ribbon:national_defense_service",
+                "type": "rectangle",
+                "width": 22.600055004872264,
+                "x": 134.99497141303166,
+                "y": 193.9165433900201
+            },
+            {
+                "class": "insignia",
+                "height": 17.151827459054875,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 25.82863429128261,
+                "x": 107.35026127314332,
+                "y": 209.6558674112705
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164454.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 39.77490196078442,
+                "label": "ribbon:rifle_marksmanship",
+                "type": "rectangle",
+                "width": 34.743137254902045,
+                "x": 195.040784313726,
+                "y": 187.61294117647108
+            },
+            {
+                "class": "ribbon",
+                "height": 47.7991163353048,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 36.70289290032334,
+                "x": 145.6734974028337,
+                "y": 266.0248438899404
+            },
+            {
+                "class": "ribbon",
+                "height": 49.437620323158086,
+                "label": "ribbon:national_defense_service",
+                "type": "rectangle",
+                "width": 35.91794456131487,
+                "x": 169.70219874194265,
+                "y": 221.56125352990847
+            },
+            {
+                "class": "insignia",
+                "height": 27.442923934487787,
+                "label": "insignia:small_craft_officer_in_charge:gold",
+                "type": "rectangle",
+                "width": 27.64471013988842,
+                "x": 146.4967851208685,
+                "y": 220.75410870830598
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164525.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 42.67778244223642,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 26.460225114186613,
+                "x": 172.987278165865,
+                "y": 280.2507713706859
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_164533.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 139.1502268083928,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 56.56513284894015,
+                "x": 183.27103043056613,
+                "y": 65.61555410477058
+            },
+            {
+                "class": "medal",
+                "height": 143.06650611882415,
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "width": 281.4312960741189,
+                "x": 99.40771317176517,
+                "y": 233.07078696353048
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165012.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 142.9093058823534,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 68.92080000000024,
+                "x": 257.7773058823538,
+                "y": 223.3169058823537
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165026.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 78.22837521661937,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 52.55342129936991,
+                "x": 205.39963133799537,
+                "y": 295.26197004836837
+            },
+            {
+                "class": "ribbon",
+                "height": 78.71836470588264,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 43.92011764705897,
+                "x": 180.74817647058885,
+                "y": 213.5193411764713
+            },
+            {
+                "class": "medal",
+                "height": 131.64805257882412,
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "width": 118.2145778258829,
+                "x": 70.52574245294149,
+                "y": 78.58582730470624
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165501.JPG"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 54.158105919197986,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 82.6412579211466,
+                "x": 103.50215797891173,
+                "y": 282.42449308974363
+            },
+            {
+                "class": "ribbon",
+                "height": 32.771164705882484,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 78.04267058823557,
+                "x": 149.66624705882404,
+                "y": 211.83010588235365
+            },
+            {
+                "class": "medal",
+                "height": 84.63089094352979,
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "width": 171.2768031000008,
+                "x": 158.5150020847066,
+                "y": 30.896991931764845
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165518.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 79.03071752653335,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 53.756934764240974,
+                "x": 203.7949467181673,
+                "y": 290.8490873438411
+            },
+            {
+                "class": "ribbon",
+                "height": 77.70482352941202,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 45.94720000000019,
+                "x": 179.73463529411825,
+                "y": 209.80302352941249
+            },
+            {
+                "class": "medal",
+                "height": 130.97637884117705,
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "width": 118.2145778258829,
+                "x": 72.54076366588268,
+                "y": 74.55578487882386
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165522.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 39.19025882352957,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 81.7589882352944,
+                "x": 28.717000000000095,
+                "y": 235.8172470588243
+            },
+            {
+                "class": "ribbon",
+                "height": 72.29927058823554,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 65.20448235294137,
+                "x": 123.65202352941219,
+                "y": 207.77594117647126
+            },
+            {
+                "class": "medal",
+                "height": 169.93345562470665,
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "width": 155.82830713411835,
+                "x": 224.33902837411864,
+                "y": 119.55792530117701
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165526.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "ribbon",
+                "height": 54.393376470588436,
+                "label": "ribbon:pistol_marksmanship",
+                "type": "rectangle",
+                "width": 23.649294117647134,
+                "x": 77.02912941176497,
+                "y": 282.4401411764715
+            },
+            {
+                "class": "ribbon",
+                "height": 51.35275294117666,
+                "label": "ribbon:navy_and_marine_corps_achievement",
+                "type": "rectangle",
+                "width": 32.43331764705893,
+                "x": 38.17671764705895,
+                "y": 245.95265882353024
+            },
+            {
+                "class": "medal",
+                "height": 61.12231012588262,
+                "label": "medal:national_defense_service",
+                "type": "rectangle",
+                "width": 122.24462025176527,
+                "x": 236.4291556517658,
+                "y": 68.51072124000031
+            }
+        ],
+        "class": "image",
+        "filename": "20190808_165545.jpg"
     }
 ]

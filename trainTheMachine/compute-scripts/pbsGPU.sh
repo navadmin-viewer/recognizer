@@ -31,11 +31,18 @@ echo "Working in directory $(pwd)"
 cp -a $HOME/trainTheMachine .
 
 # Set omp number threads
-# export OMP_NUM_THREADS=${BC_CORES_PER_NODE}
-export OMP_NUM_THREADS=48
+export OMP_NUM_THREADS=${BC_CORES_PER_NODE}
 
 # Change to needed directory and start application
 cd trainTheMachine/training-pictures
 echo "Application started on $(date)"
-python3 trainTheMachine.py -t
+python3 trainTheMachine.py -t -w ${BC_CORES_PER_NODE}
 echo "Application ended on $(date)"
+
+# Monitor job on compute node
+# qstat -fx JOBID | grep -i exec_host
+# qstat -fx JOBID | grep -i vnode
+# ssh gaffney-XXX
+# tmux
+# htop
+# watch -d -n 0.5 nvidia-smi

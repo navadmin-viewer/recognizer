@@ -11,6 +11,10 @@ import turicreate
 # exec(open('../trainTheMachine.py').read())
 # exec(open('trainTheMachine.py').read())
 
+# If you get a TypeError: 'NoneType' object is not iterable error:
+# Likely one or more annotations have "label": null 
+# Due to a bug when switching annotation classes in SLOTH.
+
 parser = argparse.ArgumentParser(description='Correct SLOTH annotated input and train object detector model.')
 parser.add_argument('-e', help='Explore annotated data.', action='store_true')
 parser.add_argument('-t', help='Train model.', action='store_true')
@@ -26,7 +30,7 @@ print("Turi Create distribution: " + pkg_resources.get_distribution('turicreate'
 if options.w and options.w > 0:
 	turicreate.config.set_runtime_config('TURI_DEFAULT_NUM_PYLAMBDA_WORKERS', options.w)
 
-IMAGE_DIRECTORY_FILE = 'image-directories.txt'
+IMAGE_DIRECTORY_FILE = 'train-image-directories.txt'
 with open(IMAGE_DIRECTORY_FILE) as f:
 		imageDirs = [ line.rstrip('\n') for line in f.readlines()]
 

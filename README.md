@@ -1,4 +1,4 @@
-![Navadmin viewer icon](https://raw.githubusercontent.com/navadmin-viewer/recognizer/master/assets/Icon128.gif)
+![Navadmin viewer icon](https://raw.githubusercontent.com/navadmin-viewer/recognizer/master/assets/Icon128.png)
 
 ## Uniform Recognizer
 

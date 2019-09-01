@@ -1,6 +1,10 @@
+![Navadmin viewer icon](https://raw.githubusercontent.com/navadmin-viewer/recognizer/master/assets/Icon128.gif)
+
 ## Uniform Recognizer
 
 The Uniform Recognizer detects US military uniform decorations using a trained neural network object detector model. 
+
+![UR demo](https://raw.githubusercontent.com/navadmin-viewer/recognizer/master/assets/URdemo.gif)
 
 The finished project is distributed as part of the free [NAVADMIN Viewer iOS app](https://apps.apple.com/us/app/navadmin-viewer/id1345135985).
 

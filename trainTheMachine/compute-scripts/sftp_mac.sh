@@ -4,7 +4,7 @@
 
 sftp $USER@gaffney.navydsrc.hpc.mil
 
-# cd WORKDIR
+# cd /p/work1/$USER/XXX/trainTheMachine/training-pictures
 # ls
 # get UniformmodelClassifier.mlmodel
 # get -r uniformModel.model

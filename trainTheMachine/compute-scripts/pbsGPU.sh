@@ -8,7 +8,7 @@
 #PBS -q gpu
 # Selecting 'gpu' queue will autoselect ngpus=1
 #PBS -l select=1:ncpus=48
-#PBS -l walltime=001:00:00
+#PBS -l walltime=010:00:00
 
 #PBS -V
 #PBS -N trainTheMachine

@@ -39,7 +39,7 @@ The training pipeline consists of:
 
 #### License
 
-- All work in this repository is released under LGPL v3
+- All original work in this repository is released under LGPL v3
   - Attribution to Anson Liu required for end products utilizing models created from this repository. 
 
 - All dependencies retain their original licenses.

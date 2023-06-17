@@ -6,7 +6,9 @@ The Uniform Recognizer detects US military uniform decorations using a trained n
 
 ![UR demo](https://raw.githubusercontent.com/navadmin-viewer/recognizer/master/assets/URdemo.gif)
 
-The finished project is distributed as part of the free [NAVADMIN Viewer iOS app](https://apps.apple.com/us/app/navadmin-viewer/id1345135985).
+The training pipeline and model are made available to the public. 
+
+The trained model can be tried out as an add-on of the free [NAVADMIN Viewer iOS app](https://apps.apple.com/us/app/navadmin-viewer/id1345135985).
 
 #### Training pipeline
 
